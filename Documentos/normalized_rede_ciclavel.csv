@@ -1,0 +1,1026 @@
+objectid,cod_ciclovia,designacao,nome_projeto,hierarquia,tipologia,nivel_segregacao,tipo_intervencao,situacao,ano,entidade_resp,freguesia,comprimento_m,comp_km
+146890,0112,Rua de Nossa Senhora do Amparo,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,156.68,0.15668
+146891,0112,Rua do Parque,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,277.06,0.27706
+146892,0112,Estrada de A-da-Maia,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,82.95,0.08295
+146893,0112,Rua Jaime Brasil,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,64.57000000000001,0.06457
+146894,0112,Rua Olivério Serpa,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,139.51,0.13951
+146895,0112,Rua Olivério Serpa,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,141.21,0.14121
+146896,0112,Rua de Nossa Senhora do Amparo,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,158.43,0.15843
+147201,0112,Rua João Frederico Ludovice,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,152.26,0.15226
+147202,0112,Rua de Emília das Neves,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,279.08,0.27908
+147203,0112,Rua João Frederico Ludovice,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,319.73,0.31973
+147204,0112,Rua Olivério Serpa,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,204.38,0.20438
+147205,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,16.61,0.01661
+147206,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,23.580000000000002,0.02358
+147207,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,20.48,0.02048
+147208,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,3.31,0.00331
+147209,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,12.51,0.01251
+147210,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,7.04,0.00704
+147211,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,23.78,0.02378
+147212,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Carnide,13.82,0.01382
+147213,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Carnide,2.85,0.00285
+147214,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Carnide,7.74,0.00774
+147215,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,38.54,0.03854
+147216,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Carnide,31.91,0.03191
+147217,0041,Passeio do Trancão,Parque Trancão - Ponte Ciclopedonal sobre o Rio Trancão,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2023,CML/DMAEVCE; EMEL,Parque das Nações,365.0,0.365
+147218,0041,Ponte Ciclopedonal sobre o Rio Trancão,Parque Trancão - Ponte Ciclopedonal sobre o Rio Trancão,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML/DMAEVCE; EMEL,,166.78,0.16678
+147219,0041,Passeio do Trancão,Parque Trancão - Ponte Ciclopedonal sobre o Rio Trancão,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2023,CML/DMAEVCE; EMEL,Parque das Nações,116.45,0.11645
+147220,0177,Alameda das Linhas de Torres-Rua Cipriano Dourado,Alameda das Linhas de Torres,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Lumiar,1634.9,1.6349
+147221,0143,Avenida de Berlim,Avenida de Berlim - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Olivais,41.980000000000004,0.04198
+147222,0143,Avenida de Berlim,Avenida de Berlim - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Parque das Nações,49.17,0.04917
+147223,0294,Santa Apolónia - Parque das Nações,T22 - Santa Apolónia - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMEVAE,Marvila,383.02,0.38302
+147224,0265,Avenida Infante Dom Henrique,Loteamento Braço de Prata,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML,Marvila,105.27,0.10527
+147225,0265,Avenida Infante Dom Henrique,Loteamento Braço de Prata,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Marvila,19.57,0.01957
+147226,0265,Avenida Infante Dom Henrique,Loteamento Braço de Prata,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML,Marvila,7.97,0.00797
+147229,0487,Rua Azedo Gneco,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,110.34,0.11034
+147233,0300,Alameda dos Oceanos,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Parque das Nações,155.3,0.1553
+147239,0459,Rua Augusto dos Santos,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,45.300000000000004,0.0453
+147240,0459,Rua Augusto dos Santos,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,8.42,0.00842
+147241,0459,Rua Tomás Ribeiro,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,49.6,0.0496
+147242,0459,Rua Pedro Nunes,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,232.75,0.23275
+147243,0459,Rua Pedro Nunes,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,20.11,0.02011
+147244,0459,Rua Pedro Nunes,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,215.8,0.2158
+147245,0690,Rua Francisco Gentil Martins,Rua Francisco Gentil Martins,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2023,CML/DMM; EMEL,Campolide,453.11,0.45311
+147246,0690,Rua Francisco Gentil Martins,Rua Francisco Gentil Martins,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2023,CML/DMM; EMEL,Campolide,16.15,0.01615
+147247,0127,Avenida Columbano Bordalo Pinheiro,Rua Conde de Almoster,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Campolide,21.19,0.02119
+147257,0073,Rua da Palma,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Santa Maria Maior,317.15000000000003,0.31715
+147263,0073,Rua João das Regras-Praça Martim Moniz,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Santa Maria Maior,399.57,0.39957
+147273,0090,Cais Português,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,87.78,0.08778
+147280,0267,Monsanto - Avenida Calouste Gulbenkian,T15A - Monsanto - Avenida Calouste Gulbenkian,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML/DMEVAE,Campolide,327.14,0.32714
+147290,0083,BTT/Trail 2,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,2984.48,2.98448
+147291,0083,BTT/Trail 2,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,879.39,0.87939
+147292,0091,BTT/Trail 3,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Belém,3283.01,3.28301
+147293,0091,BTT/Trail 3,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,1376.19,1.37619
+147295,0003,Avenida Cidade de Praga,Avenida Cidade de Praga,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Carnide,296.73,0.29673
+147298,0086,Avenida dos Defensores de Chaves,Avenida Defensores de Chaves,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Provisória,Executado,2019,CML/DMM,Avenidas Novas,714.62,0.71462
+147302,0057,Circuito Acessível,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,1361.9,1.3619
+147303,0057,Circuito Acessível,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,583.65,0.58365
+147304,0057,Circuito Acessível,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,171.69,0.17169
+147306,0393,Eixo Central,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML,Santa Clara,221.92000000000002,0.22192
+147308,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,38.160000000000004,0.03816
+147315,0411,Alameda dos Oceanos,,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMM,Parque das Nações,1434.8,1.4348
+147319,0163,Encosta da Pimenteira - Alcântara,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,6176.6,6.1766
+147320,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,622.82,0.62282
+147321,0159,Parque da Bela Vista - Parque hortícola de Chelas,Ligação Parque da Bela Vista - Parque hortícola de Chelas,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML/DMEVAE,Marvila,57.2,0.0572
+147324,0479,Campo Grande,Rotunda de Entrecampos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Avenidas Novas,61.78,0.06178
+147335,0252,Avenida Calouste Gulbenkian - Jardim Amália Rodrigues,T15B - Corredor Verde - Avenida Calouste Gulbenkian - Jardim Amália Rodrigues,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML/DMEVAE,Campolide,991.63,0.99163
+147339,0232,Telheiras-Campo Grande,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML,Lumiar,1069.65,1.06965
+147340,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,27.34,0.02734
+147342,0200,Ponte ciclopedonal sobre a 2ª Circular,,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2015,CML,São Domingos de Benfica,92.51,0.09251
+147344,0044,Estrada da Circunvalação,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,9.870000000000001,0.00987
+147345,0044,Estrada da Circunvalação,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,223.8,0.2238
+147346,0044,Estrada da Circunvalação,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,7.46,0.00746
+147354,0629,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,90.16,0.09016
+147355,0673,Avenida Cidade de Praga,ZON - Avenida Cidade de Praga,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Carnide,21.68,0.02168
+147368,0247,Avenida Rovisco Pais,Avenida Rovisco Pais,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Areeiro,443.24,0.44324
+147374,0657,Estrada das Laranjeiras,UPCB - Requalificação Praça Marechal Humberto Delgado - Sete Rios,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; CML/DMMC/DIOA,São Domingos de Benfica,202.29,0.20229
+147377,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,487.56,0.48756
+147378,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,94.79,0.09479
+147379,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,2.66,0.00266
+147380,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,47.14,0.04714
+147382,0529,Praça do Marquês de Pombal,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMU/DEP,Avenidas Novas,145.61,0.14561
+147391,0152,Parque da Bela Vista - Parque hortícola de Chelas,Parque da Bela Vista - Parque hortícola de Chelas,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Marvila,221.19,0.22119
+147395,0046,Rua das Musas,Alameda dos Oceanos Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,26.32,0.02632
+147404,0050,Rotunda dos Vice-reis,Alameda dos Oceanos Norte,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,188.89000000000001,0.18889
+147406,0160,Parque Florestal de Monsanto - Parque Quinta da Granja,T01 - Parque Florestal de Monsanto - Parque da Quinta da Granja,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML/DMEVAE,São Domingos de Benfica,16.03,0.01603
+147408,0487,Rua Coelho da Rocha,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,15.790000000000001,0.01579
+147409,0487,Travessa de Cima dos Quartéis,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,14.4,0.0144
+147410,0140,Rua Sem Nome à Rua Sampaio Bruno,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,132.37,0.13237
+147411,0140,Rua Sampaio Bruno,Bairro de Campo de Ourique - 1ª fase,Local,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,EMEL,Campo de Ourique,16.46,0.01646
+147412,0140,Rua Sampaio Bruno,Bairro de Campo de Ourique - 1ª fase,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,EMEL,Campo de Ourique,15.51,0.01551
+147413,0487,Rua de Infantaria 16,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,83.85000000000001,0.08385
+147414,0487,Rua Almeida e Sousa,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,62.74,0.06274
+147415,0090,Cais Português,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,262.9,0.2629
+147416,0044,Estrada da Circunvalação,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,222.70000000000002,0.2227
+147417,0044,Estrada da Circunvalação,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,235.91,0.23591
+147418,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,3460.56,3.46056
+147419,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,255.85,0.25585
+147421,0111,Rua Inácio Pardelhas Sanchez,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,40.11,0.04011
+147423,0167,Ponte Ciclopedonal do Parque hortícola do Vale de Chelas,Corredor Verde Oriental - Parque Urbano do Vale de Chelas - Ponte Ciclopedonal do Parque hortícola e Espaços Exteriores - Av. Santo Condestável,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2016,CML/DMEVAE,Marvila,171.25,0.17125
+147427,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,124.02,0.12402
+147431,0683,Praça Baden Powell,Avenida Cidade de Luanda - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,66.57000000000001,0.06657
+147432,0073,Avenida Almirante Reis,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Areeiro,32.46,0.03246
+147433,0459,Rua Latino Coelho,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,93.7,0.0937
+147434,0459,Rua Viriato,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,215.9,0.2159
+147435,0459,Rua Andrade Corvo,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,87.18,0.08718
+147437,0140,Rua Almeida e Sousa,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,549.28,0.54928
+147438,0140,Rua Luís Derouet,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,196.28,0.19628
+147441,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,67.31,0.06731
+147446,0216,Ponte da Belavista,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML,Marvila,88.2,0.0882
+147447,0012,Avenida Vinte e Quatro de Julho,Avenida 24 de Julho,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,CML/DMM; CML/DMMC/DIOA,Estrela,1253.93,1.25393
+147453,0044,Estrada da Portela ao Alto da Boavista - Estrada do Calhariz de Benfica,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,527.17,0.52717
+147471,0050,Via do Oriente,Alameda dos Oceanos Norte,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,14.870000000000001,0.01487
+147477,0164,Rua da Portela,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,420.86,0.42086
+147483,0400,Alameda das Linhas de Torres,UPCB - Alameda das Linhas de Torres,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Lumiar,124.78,0.12478
+147486,0050,Alameda dos Oceanos,Alameda dos Oceanos Norte,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,459.36,0.45936
+147487,0050,Via do Oriente,Alameda dos Oceanos Norte,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,1016.85,1.01685
+147489,0136,Rota da Água,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,682.25,0.68225
+147496,0479,Avenida da República,Rotunda de Entrecampos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Avenidas Novas,10.200000000000001,0.0102
+147497,0099,BTT/Trail 1,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,1629.5,1.6295
+147498,0099,BTT/Trail 1,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,27.84,0.02784
+147500,0111,Rua Inácio Pardelhas Sanchez,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,42.44,0.04244
+147507,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,229.78,0.22978
+147512,0665,Rua Cardeal Mercier,Rua Cardeal Mercier,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Avenidas Novas,57.870000000000005,0.05787
+147517,0459,Avenida Luís Bivar,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,320.03000000000003,0.32003
+147518,0073,Avenida Almirante Reis,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Areeiro,30.740000000000002,0.03074
+147522,0657,Estrada das Laranjeiras,UPCB - Requalificação Praça Marechal Humberto Delgado - Sete Rios,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; CML/DMMC/DIOA,São Domingos de Benfica,203.52,0.20352
+147524,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,22.3,0.0223
+147530,0685,Avenida Infante Dom Henrique,Avenida Infante Dom Henrique (Terminal de Cruzeiros - Estação de Santa Apolónia),Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Santa Maria Maior,160.88,0.16088
+147533,0149,Alameda Manuel Ricardo Espírito Santo,UPCB - Alameda Manuel Ricardo Espírito Santo,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMU/DEP,Benfica,279.37,0.27937
+147534,0479,Campo Grande,Rotunda de Entrecampos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Alvalade,16.94,0.01694
+147541,0100,Parque hortícola do Vale de Chelas - Parque Vale Fundão,Corredor Verde Oriental - Prolongamento da pista ciclável de ligação entre o Parque Horticola do Vale de Chelas e o Parque Vale Fundão,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMEVAE,Marvila,668.4,0.6684
+147544,0295,Campo Grande,T11 - Telheiras - Campo Grande (Via Cidade Universitária),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Alvalade,160.18,0.16018
+147546,0198,Passeio dos Jacarandás,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,97.65,0.09765
+147550,0045,Doca do Bom Sucesso,Vela Latina,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Belém,117.83,0.11783
+147552,0508,Rua da Quinta de Santa Maria,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,410.85,0.41085
+147553,0508,Rua dos Eucaliptos,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,16.31,0.01631
+147554,0508,Praça do Norte,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,125.95,0.12595
+147555,0508,Rua dos Lojistas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,667.91,0.66791
+147556,0508,Rua dos Lojistas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,726.66,0.72666
+147557,0508,Rua Capitão Santiago de Carvalho,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,310.83,0.31083
+147558,0508,Rua Capitão Santiago de Carvalho,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,302.21,0.30221
+147559,0508,Praça das Casas Novas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,284.97,0.28497
+147560,0508,Praça das Casas Novas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,31.45,0.03145
+147561,0140,Rua Professor Gomes Teixeira,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,209.73000000000002,0.20973
+147562,0073,Avenida Almirante Reis,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Areeiro,11.41,0.01141
+147564,0508,Praça das Casas Novas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,18.490000000000002,0.01849
+147565,0508,Praça das Casas Novas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,60.97,0.06097
+147566,0508,Rua da Quinta da Fonte,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,200.95000000000002,0.20095
+147571,0263,Passagem superior naturalizada sobre a Avenida Gago Coutinho,Corredor Verde Oriental - Passagem superior naturalizada sobre a Avenida Gago Coutinho,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMAEVCE; EMEL,Alvalade,153.55,0.15355
+147576,0523,Passeio do Tejo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,136.0,0.136
+147582,0282,Quinta da Paz - Cemitério de Carnide,Quinta da Paz - Cemitério de Carnide (1ª fase),Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Carnide,9.07,0.00907
+147583,0459,Avenida Praia da Vitória,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,199.35,0.19935
+147585,0238,Avenida Calouste Gulbenkian,T16 - Avenida Calouste Gulbenkian - Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML/DMEVAE,Campolide,551.47,0.55147
+147593,0200,Ponte ciclopedonal sobre a 2ª Circular,,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Lumiar,16.18,0.01618
+147597,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Belém,1488.49,1.48849
+147600,0448,Avenida General Correia Barreto,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,São Domingos de Benfica,1605.89,1.60589
+147615,0123,Keil do Amaral,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,634.13,0.63413
+147616,0123,Keil do Amaral,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,724.61,0.72461
+147617,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,221.41,0.22141
+147627,0088,Avenida Álvaro Pais,Avenida Álvaro Pais,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,59.92,0.05992
+147628,0088,Avenida Álvaro Pais,Avenida Álvaro Pais,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,1395.46,1.39546
+147629,0086,Avenida dos Defensores de Chaves,Avenida Defensores de Chaves,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Provisória,Executado,2019,CML/DMM,Arroios,265.75,0.26575
+147630,0136,Rota da Água,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,1450.42,1.45042
+147641,0162,Rua Fernando Namora,Parque Quinta da Granja Sul - Telheiras,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Lumiar,760.84,0.76084
+147645,0055,Estrada do Desvio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Lumiar,173.98,0.17398
+147649,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,544.5600000000001,0.54456
+147650,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,453.3,0.4533
+147651,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,982.1700000000001,0.98217
+147658,0508,Praça das Casas Novas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,61.13,0.06113
+147659,0508,Rua da Quinta do Morgado,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,352.58,0.35258
+147660,0508,Alameda da Encarnação,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,206.39000000000001,0.20639
+147661,0508,Rua das Escolas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,441.34000000000003,0.44134
+147662,0508,Rua das Escolas,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,464.08,0.46408
+147663,0508,Alameda da Encarnação,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,214.4,0.2144
+147664,0508,Rua da Quinta do Morgado,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,356.06,0.35606
+147671,0005,Avenida Marechal Gomes da Costa,Avenida Marechal Gomes da Costa,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Parque das Nações,383.3,0.3833
+147672,0246,Avenida Padre Cruz - Quinta das Conchas,T03C - Avenida Padre Cruz - Quinta das Conchas (1ª fase),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Lumiar,302.97,0.30297
+147676,0049,Corredor Verde Oriental,Corredor Verde Oriental - Quinta das Flores ligação Rio,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Marvila,243.69,0.24369
+147678,0156,Montado de Monsanto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,1393.71,1.39371
+147679,0142,Rua Engº Ferreira Dias,Rua Pardal Monteiro-Rua Eng.º Ferreira Dias,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Marvila,15.4,0.0154
+147681,0411,Alameda dos Oceanos,,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMM,Parque das Nações,1434.91,1.43491
+147683,0284,Corredor do Vale de Alcântara,Corredor Estruturante do Vale de Alcântara - Passagem Inferior,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2022,CML/DMAEVCE,Campolide,98.61,0.09861
+147684,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2009,CML/DMEVAE,Estrela,100.16,0.10016
+147685,0263,Rua Quinta da Graça,Corredor Verde Oriental - Passagem superior naturalizada sobre a Avenida Gago Coutinho,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMAEVCE; EMEL,Alvalade,46.82,0.04682
+147686,0263,Rua Quinta da Graça,Corredor Verde Oriental - Passagem superior naturalizada sobre a Avenida Gago Coutinho,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMAEVCE; EMEL,Marvila,19.22,0.01922
+147687,0263,Passagem superior naturalizada sobre a Avenida Gago Coutinho,Corredor Verde Oriental - Passagem superior naturalizada sobre a Avenida Gago Coutinho,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMAEVCE; EMEL,Marvila,23.16,0.02316
+147691,0522,Passeio do Sapal,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,90.41,0.09041
+147692,0661,Rua do Rio Zêzere,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2016,CML,Carnide,37.85,0.03785
+147693,0071,Rua Egas Moniz,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,289.5,0.2895
+147694,0071,Rua Egas Moniz,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,37.45,0.03745
+147695,0071,Rua Lucinda do Carmo,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,21.14,0.02114
+147696,0071,Rua Augusto Machado,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,200.05,0.20005
+147697,0071,Rua Casimiro Freire,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,110.81,0.11081
+147698,0071,Rua José Acúrcio das Neves,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,109.81,0.10981
+147706,0487,Rua Correia Teles,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,138.44,0.13844
+147707,0508,Praça do Norte,Bairros 30+Bici - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Olivais,282.91,0.28291
+147708,0111,Rua João da Mota e Silva,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,91.13,0.09113
+147709,0111,Rua da Igreja ao Bairro da Liberdade,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,169.43,0.16943
+147710,0111,Rua Padre José Gallea,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,198.65,0.19865
+147722,0186,Rua Marquês de Subserra,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,177.48,0.17748
+147723,0186,Rua Marquês de Subserra,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,171.88,0.17188
+147726,0140,Travessa de Cima dos Quartéis,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,57.93,0.05793
+147729,0253,Avenida Dr. Francisco Luís Gomes,Corredor Verde dos Olivais - Pista Ciclável Troço 24B - Parque Urbano dos Olivais/Quinta Conde dos Arcos,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMEVAE,Olivais,474.78000000000003,0.47478
+147739,0176,Praça do Tejo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,36.65,0.03665
+147754,0140,Rua de Infantaria 16,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,421.04,0.42104
+147755,0140,Rua Francisco Metrass,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,258.3,0.2583
+147756,0140,Rua Azedo Gneco,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,286.37,0.28637
+147761,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Carnide,182.32,0.18232
+147770,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,967.9300000000001,0.96793
+147773,0271,Parque Quinta da Granja Norte - Parque Quinta Mata Mouros,Parque Quinta da Granja Norte - Parque Quinta Mata Mouros,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Benfica,158.13,0.15813
+147775,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,357.78000000000003,0.35778
+147778,0038,Rua Luís Augusto Palmeirim,Rua Luís Augusto Palmeirim,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,303.97,0.30397
+147780,0237,Telheiras-Campo Grande,Interface Campo Grande,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM,Lumiar,372.15000000000003,0.37215
+147781,0232,Telheiras-Campo Grande,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML,Lumiar,43.51,0.04351
+147783,0046,Rua Finisterra,Alameda dos Oceanos Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,106.06,0.10606
+147788,0393,Eixo Central,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML,Santa Clara,138.3,0.1383
+147789,0393,Eixo Central,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML,Santa Clara,160.4,0.1604
+147791,0044,Estrada da Circunvalação,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,77.56,0.07756
+147793,0673,Avenida Cidade de Praga,ZON - Avenida Cidade de Praga,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Carnide,1024.84,1.02484
+147798,0645,Avenida Infante Dom Henrique,Estação Sul e Sueste,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMU/DEP,Santa Maria Maior,11.15,0.01115
+147799,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Belém,297.51,0.29751
+147800,0198,Passeio dos Jacarandás,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,49.52,0.04952
+147816,0050,Via do Oriente,Alameda dos Oceanos Norte,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,14.89,0.01489
+147828,0629,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,104.95,0.10495
+147832,0084,Avenida Almirante Reis,Avenida Afonso Costa,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Areeiro,137.31,0.13731
+147834,0142,Rua Pardal Monteiro,Rua Pardal Monteiro-Rua Eng.º Ferreira Dias,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Marvila,16.57,0.01657
+147835,0142,Rua Pardal Monteiro,Rua Pardal Monteiro-Rua Eng.º Ferreira Dias,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Marvila,715.17,0.71517
+147837,0129,Estrada do Desvio,Estrada do Desvio,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,74.42,0.07442
+147840,0673,Avenida Cidade de Praga,ZON - Avenida Cidade de Praga,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Carnide,23.41,0.02341
+147841,0278,Praça de Espanha,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,Campolide,363.35,0.36335
+147848,0073,Alameda Dom Afonso Henriques,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Areeiro,7.71,0.00771
+147849,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,336.93,0.33693
+147850,0110,Rua São Francisco Xavier,Bairros 30+Bici - Bairro do Restelo,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Belém,593.27,0.59327
+147851,0298,Rua B do Bairro da Liberdade,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Estação de Campolide,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,16.080000000000002,0.01608
+147854,0110,Rua Soldados da Índia,Bairros 30+Bici - Bairro do Restelo,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Belém,499.93,0.49993
+147857,0225,Rua Marquês de Fronteira,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2015,CML/DMEVAE,Campolide,111.61,0.11161
+147859,0265,Avenida Infante Dom Henrique,Loteamento Braço de Prata,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML,Marvila,307.55,0.30755
+147862,0661,Rua do Rio Zêzere,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2016,CML,Carnide,28.03,0.02803
+147872,0140,Rua Silva Carvalho,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,101.2,0.1012
+147879,0246,Avenida Padre Cruz - Quinta das Conchas,T03C - Avenida Padre Cruz - Quinta das Conchas (1ª fase),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Lumiar,89.55,0.08955
+147880,0162,Avenida do Colégio Militar,Parque Quinta da Granja Sul - Telheiras,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Benfica,388.24,0.38824
+147881,0218,Rua António Quadros,,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,44.81,0.04481
+147890,0669,Rua Portugal Durão,Rua Portugal Durão,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Avenidas Novas,166.96,0.16696
+147892,0047,Avenida de Berlim,Avenida de Berlim - Fase 1,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,495.48,0.49548
+147899,0157,Moinhos do Mocho,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,1361.77,1.36177
+147903,0266,Avenida de Berlim,Mata de Alvalade - Parque Urbano dos Olivais,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Olivais,517.0600000000001,0.51706
+147910,0159,Parque da Bela Vista - Parque hortícola de Chelas,Ligação Parque da Bela Vista - Parque hortícola de Chelas,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Marvila,294.61,0.29461
+147917,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,124.15,0.12415
+147920,0140,Travessa de Cima dos Quartéis,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,119.87,0.11987
+147921,0140,Travessa de Cima dos Quartéis,Bairro de Campo de Ourique - 1ª fase,Local,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,100.7,0.1007
+147926,0299,Corredor do Vale de Alcântara,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Quinta da Bela Flor,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,391.98,0.39198
+147934,0408,Avenida da Ribeira das Naus,,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2014,CML,Santa Maria Maior,477.01,0.47701
+147935,0059,Doca Pesca,Doca de Pedrouços,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Belém,79.65,0.07965
+147936,0059,Doca Pesca,Doca de Pedrouços,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Belém,208.92000000000002,0.20892
+147937,0059,Doca Pesca,Doca de Pedrouços,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Belém,284.7,0.2847
+147939,0162,Avenida do Colégio Militar,Parque Quinta da Granja Sul - Telheiras,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Carnide,927.14,0.92714
+147940,0003,Avenida Cidade de Praga,Avenida Cidade de Praga,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Carnide,293.34000000000003,0.29334
+147941,0529,Praça do Marquês de Pombal,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMU/DEP,Santo António,149.68,0.14968
+147942,0068,Avenida de Paris,Avenida de Paris,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Areeiro,133.57,0.13357
+147947,0285,Avenida Calouste Gulbenkian,Corredor Estruturante do Vale de Alcântara - Estação de Campolide-Avenida Calouste Gulbenkian,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Campolide,70.78,0.07078
+147954,0112,Rua Prof. Jorge da Silva Horta,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,177.79,0.17779
+147955,0112,Rua Prof. Jorge da Silva Horta,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,65.08,0.06508
+147956,0112,Rua da Venezuela,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,8.53,0.00853
+147957,0112,Rua Jaime Brasil,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,62.38,0.06238
+147958,0112,Rua do Parque,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,293.76,0.29376
+147964,0142,Rua Pardal Monteiro,Rua Pardal Monteiro-Rua Eng.º Ferreira Dias,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Marvila,10.19,0.01019
+147968,0088,Avenida Álvaro Pais,Avenida Álvaro Pais,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,25.66,0.02566
+147972,0068,Avenida de Paris,Avenida de Paris,Principal,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMM,Areeiro,156.9,0.1569
+147974,0129,Rua Prof. José Pinto Correia,Estrada do Desvio,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,8.71,0.00871
+147975,0129,Rua Prof. José Pinto Correia,Estrada do Desvio,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,88.94,0.08894
+147976,0129,Rua Prof. José Pinto Correia,Estrada do Desvio,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2024,CML/DMM; EMEL,Santa Clara,6.76,0.00676
+147977,0129,Rua Prof. José Pinto Correia,Estrada do Desvio,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,3.4,0.0034
+147989,0295,Azinhaga das Galhardas,T11 - Telheiras - Campo Grande (Via Cidade Universitária),Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Lumiar,72.82000000000001,0.07282
+147993,0278,Praça de Espanha,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,Avenidas Novas,260.71,0.26071
+147999,0037,Rua Fernando Pessoa,Rua Fernando Pessoa,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,125.03,0.12503
+148001,0225,Rua Marquês de Fronteira,,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2015,CML/DMEVAE,Avenidas Novas,18.04,0.01804
+148006,0191,Quinta dos Alcoutins,Corredor Verde Periférico - Parque da Encosta do Olival - Percurso dos Alcoutins,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML/DMAEVCE,Lumiar,299.39,0.29939
+148009,0115,Rua Marquês de Fronteira,Rua Marquês de Fronteira,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Avenidas Novas,23.87,0.02387
+148015,0287,Rotunda Nelson Mandela,T04A - Rotunda das Calvanas - Avenida do Brasil,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMEVAE,Lumiar,202.12,0.20212
+148016,0088,Avenida Álvaro Pais,Avenida Álvaro Pais,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,24.85,0.02485
+148020,0088,Avenida Álvaro Pais,Avenida Álvaro Pais,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,23.45,0.02345
+148023,0263,Rua Quinta da Graça,Corredor Verde Oriental - Passagem superior naturalizada sobre a Avenida Gago Coutinho,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMAEVCE; EMEL,Marvila,95.10000000000001,0.0951
+148034,0371,Avenida Marechal Craveiro Lopes,Calvanas,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,431.06,0.43106
+148045,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Belém,902.75,0.90275
+148048,0156,Montado de Monsanto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,207.34,0.20734
+148049,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,1070.66,1.07066
+148050,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,303.29,0.30329
+148051,0129,Rua Alexandre Ferreira,Estrada do Desvio,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,309.1,0.3091
+148054,0200,Ponte ciclopedonal sobre a 2ª Circular,,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2015,CML,Carnide,1.94,0.00194
+148055,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,17.82,0.01782
+148057,0071,Rua Abade Faria,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,445.84000000000003,0.44584
+148058,0071,Rua Abade Faria,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,91.07000000000001,0.09107
+148059,0071,Rua Actriz Virgínia,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,202.41,0.20241
+148060,0071,Rua Barão de Sabrosa,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,505.17,0.50517
+148061,0071,Rua Barão de Sabrosa,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,51.03,0.05103
+148062,0050,Rotunda das Oliveiras,Alameda dos Oceanos Norte,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,185.67000000000002,0.18567
+148068,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,69.60000000000001,0.0696
+148071,0291,Rua Filipe da Mata,Rua Filipe da Mata,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Avenidas Novas,532.67,0.53267
+148074,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,661.27,0.66127
+148075,0203,Ponte ciclopedonal sobre a Av. de Ceuta - Rua Qta do Loureiro,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campo de Ourique,68.59,0.06859
+148077,0272,Avenida de Berlim,Parque Vale de Chelas - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,Olivais,468.03000000000003,0.46803
+148079,0198,Passeio dos Jacarandás,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,62.800000000000004,0.0628
+148088,0665,Rua Cardeal Mercier,Rua Cardeal Mercier,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Avenidas Novas,57.94,0.05794
+148095,0039,Rua Fernão Mendes Pinto,Rua Fernão Mendes Pinto,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; CML/DMMC/DIOA,Belém,1023.0,1.023
+148096,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,431.99,0.43199
+148101,0481,Eixo Central,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,164.07,0.16407
+148102,0061,Eixo do Paço do Lumiar,Eixo do Paço do Lumiar,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2022,CML/DMAEVCE,Lumiar,1335.05,1.33505
+148103,0055,Rua Actor Epifânio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Lumiar,147.47,0.14747
+148105,0047,Avenida do Pacífico,Avenida de Berlim - Fase 1,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,130.51,0.13051
+148111,0216,Ponte da Belavista,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML,Areeiro,100.46000000000001,0.10046
+148115,0182,Praça de Espanha,Avenida de Berna,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2023,CML/DMM; CML/DMMC/DIOA,Avenidas Novas,47.64,0.04764
+148116,0182,Avenida de Berna,Avenida de Berna,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2023,CML/DMM; CML/DMMC/DIOA,Avenidas Novas,69.54,0.06954
+148117,0159,Parque da Bela Vista - Parque hortícola de Chelas,Ligação Parque da Bela Vista - Parque hortícola de Chelas,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Marvila,28.25,0.02825
+148118,0529,Praça do Marquês de Pombal,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMU/DEP,Santo António,128.57,0.12857
+148120,0186,Rua Padre António Vieira,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,215.79,0.21579
+148122,0505,Rua 5 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,275.07,0.27507
+148123,0505,Rua 8 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,216.29,0.21629
+148131,0160,Parque Florestal de Monsanto - Parque Quinta da Granja,T01 - Parque Florestal de Monsanto - Parque da Quinta da Granja,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML/DMEVAE,Benfica,221.34,0.22134
+148135,0066,Praça de Londres,Praça de Londres,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM; EMEL,Areeiro,30.310000000000002,0.03031
+148138,0098,Rua Interior à Alameda da Universidade,,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,Alvalade,29.23,0.02923
+148144,0524,Passeio dos Heróis do Mar,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML,Parque das Nações,715.97,0.71597
+148146,0073,Avenida Almirante Reis,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Arroios,1899.91,1.89991
+148154,0683,Praça Baden Powell,Avenida Cidade de Luanda - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,11.57,0.01157
+148155,0182,Avenida de Berna,Avenida de Berna,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2023,CML/DMM; CML/DMMC/DIOA,Avenidas Novas,42.84,0.04284
+148157,0182,Avenida de Berna,Avenida de Berna,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2023,CML/DMM; CML/DMMC/DIOA,Avenidas Novas,51.43,0.05143
+148159,0182,Avenida de Berna,Avenida de Berna,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2023,CML/DMM; CML/DMMC/DIOA,Avenidas Novas,52.38,0.05238
+148165,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Carnide,8.01,0.00801
+148168,0481,Eixo Central,,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,231.09,0.23109
+148173,0006,Avenida Infante Dom Henrique,Avenida Infante Dom Henrique (Terreiro do Paço-Santa Apolónia),Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML; ATL,Santa Maria Maior,859.75,0.85975
+148175,0055,Estrada do Desvio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Santa Clara,4.11,0.00411
+148180,0485,Rua Marquês de Olhão,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,315.36,0.31536
+148185,0481,Eixo Central,,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,199.66,0.19966
+148187,0630,Terreiro dos Corvos,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,109.07000000000001,0.10907
+148190,0160,Avenida do Colégio Militar,T01 - Parque Florestal de Monsanto - Parque da Quinta da Granja,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Benfica,266.05,0.26605
+148191,0144,Seis Pedreiras,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,3653.02,3.65302
+148198,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,131.19,0.13119
+148203,0286,Praça São Francisco de Assis - Avenida das Nações Unidas,Praça São Francisco de Assis - Avenida das Nações Unidas,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2019,CML/DMM,Carnide,33.78,0.03378
+148205,0225,Rua Marquês de Fronteira,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2015,CML/DMEVAE,Avenidas Novas,133.63,0.13363
+148206,0041,Passeio do Trancão,Parque Trancão - Ponte Ciclopedonal sobre o Rio Trancão,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2023,CML/DMAEVCE; EMEL,Parque das Nações,106.45,0.10645
+148212,0017,Rua Cidade de Bissau,Rua Cidade de Bissau - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,231.0,0.231
+148223,0522,Passeio do Sapal,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,166.59,0.16659
+148225,0673,Avenida Cidade de Praga,ZON - Avenida Cidade de Praga,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Carnide,23.09,0.02309
+148226,0294,Avenida Infante Dom Henrique,T22 - Santa Apolónia - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMEVAE,Beato,1257.65,1.25765
+148227,0522,Passeio do Sapal,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,97.26,0.09726
+148228,0522,Passeio do Sapal,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,86.7,0.0867
+148230,0035,Rua Fernando Pessoa,Rua Alberto de Oliveira,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMM; EMEL,Alvalade,12.02,0.01202
+148236,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,563.47,0.56347
+148237,0073,Avenida Almirante Reis,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Arroios,1923.04,1.92304
+148241,0035,Rua Alberto de Oliveira,Rua Alberto de Oliveira,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMM; EMEL,Alvalade,314.63,0.31463
+148242,0048,Avenida dos Combatentes,Avenida dos Combatentes,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,CML/DMM,Alvalade,411.89,0.41189
+148244,0129,Estrada do Desvio,Estrada do Desvio,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Santa Clara,4.84,0.00484
+148245,0129,Estrada do Desvio,Estrada do Desvio,Principal,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2024,CML/DMM; EMEL,Santa Clara,489.0,0.489
+148246,0129,Estrada do Desvio,Estrada do Desvio,Principal,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,68.92,0.06892
+148249,0278,Praça de Espanha,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,Campolide,31.17,0.03117
+148261,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,293.12,0.29312
+148264,0086,Avenida dos Defensores de Chaves,Avenida Defensores de Chaves,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Provisória,Executado,2019,CML/DMM,Avenidas Novas,710.38,0.71038
+148270,0177,Alameda das Linhas de Torres,Alameda das Linhas de Torres,Principal,Zona de Coexistência,Via banalizada (coexistência),Provisória,Executado,2021,CML/DMM; EMEL,Lumiar,96.9,0.0969
+148271,0177,Campo Grande,Alameda das Linhas de Torres,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Alvalade,52.96,0.05296
+148272,0177,Rua António Stromp,Alameda das Linhas de Torres,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Lumiar,86.29,0.08629
+148274,0161,Parque Oeste,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Santa Clara,338.52,0.33852
+148282,0059,Doca Pesca,Doca de Pedrouços,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Belém,149.29,0.14929
+148288,0260,Rua Quinta da Graça,T05 - Jardim do Campo Grande - Parque Vale de Chelas,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2011,CML/DMEVAE,Marvila,37.04,0.03704
+148289,0090,Cais Português,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,245.24,0.24524
+148290,0156,Montado de Monsanto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,10.59,0.01059
+148291,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,295.22,0.29522
+148297,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2009,CML/DMEVAE,Belém,311.19,0.31119
+148306,0129,Rua Prof. José Pinto Correia,Estrada do Desvio,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,100.35000000000001,0.10035
+148317,0197,Rua da Pimenta,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,295.64,0.29564
+148324,0673,Avenida Cidade de Praga,ZON - Avenida Cidade de Praga,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Carnide,24.79,0.02479
+148325,0037,Rua Fernando Pessoa,Rua Fernando Pessoa,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,112.37,0.11237
+148335,0477,Caminho das Gaivotas,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,186.58,0.18658
+148341,0211,Ponte ciclopedonal sobre a Estação Ferroviária do Braço de Prata,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Marvila,49.370000000000005,0.04937
+148345,0239,Avenida da Igreja,Avenida da Igreja (troço Poente),Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT; CML/DPMO,Alvalade,317.64,0.31764
+148346,0184,Campismo - Chaminés Del Rei,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,612.15,0.61215
+148363,0041,Passeio do Trancão,Parque Trancão - Ponte Ciclopedonal sobre o Rio Trancão,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2023,CML/DMAEVCE; EMEL,Parque das Nações,101.51,0.10151
+148367,0158,Vila Pouca - Bela Vista,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,1744.14,1.74414
+148370,0046,Passeio do Adamastor,Alameda dos Oceanos Sul,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,11.99,0.01199
+148383,0184,Campismo - Chaminés Del Rei,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,415.18,0.41518
+148386,0291,Rua Filipe da Mata,Rua Filipe da Mata,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Avenidas Novas,478.48,0.47848
+148395,0661,Rua do Rio Zêzere,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2016,CML,Carnide,38.43,0.03843
+148401,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,173.25,0.17325
+148413,0007,Avenida de Pádua,Avenida de Pádua - Fase 1,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,501.52000000000004,0.50152
+148416,0277,Rua Ricardo Jorge,Planalto - Rua Ricardo Jorge,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT; CML/DMPO,Alvalade,169.34,0.16934
+148419,0067,Rua Edison,Rua Edison,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Areeiro,108.5,0.1085
+148420,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,86.92,0.08692
+148431,0198,Passeio dos Jacarandás,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,48.25,0.04825
+148437,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,104.4,0.1044
+148438,0215,Ponte ciclopedonal sobre Av do Santo Condestável,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Marvila,134.39000000000001,0.13439
+148440,0046,Alameda dos Oceanos,Alameda dos Oceanos Sul,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,20.11,0.02011
+148444,0066,Avenida Guerra Junqueiro,Praça de Londres,Principal,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM; EMEL,Areeiro,36.86,0.03686
+148447,0683,Rua Contra-Almirante Armando Ferraz,Avenida Cidade de Luanda - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,237.53,0.23753
+148454,0176,Praça do Tejo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,21.12,0.02112
+148456,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,143.03,0.14303
+148465,0127,Avenida Columbano Bordalo Pinheiro,Rua Conde de Almoster,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,São Domingos de Benfica,19.88,0.01988
+148468,0487,Rua Silva Carvalho,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,391.13,0.39113
+148473,0046,Rua Finisterra,Alameda dos Oceanos Sul,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,9.82,0.00982
+148474,0604,Rua João Amaral,,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Santa Clara,330.92,0.33092
+148481,0566,Rua Interior à Alameda da Universidade,Via Lateral do Campo Grande,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Alvalade,23.84,0.02384
+148482,0566,Rua Interior à Alameda da Universidade,Via Lateral do Campo Grande,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Alvalade,29.330000000000002,0.02933
+148484,0080,Rua Carlos Gil,Marvila-OR14 - Bairro dos Alfinetes,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,SRU,Marvila,180.29,0.18029
+148485,0080,Rua Carlos Gil,Marvila-OR14 - Bairro dos Alfinetes,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,SRU,Marvila,175.59,0.17559
+148486,0269,Quinta da Bela Vista - Quinta da Montanha (Olaias),T09 - Quinta da Bela Vista - Quinta da Montanha (Olaias),Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML/DMEVAE,Areeiro,110.63,0.11063
+148488,0162,Rua do Seminário,Parque Quinta da Granja Sul - Telheiras,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Carnide,379.94,0.37994
+148489,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,317.08,0.31708
+148492,0084,Avenida Afonso Costa,Avenida Afonso Costa,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Areeiro,603.29,0.60329
+148495,0114,Rotunda à Avenida de Pádua,Avenida de Pádua-Rua António Mega Ferreira,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2022,CML,Parque das Nações,75.37,0.07537
+148496,0114,Rua António Mega Ferreira,Avenida de Pádua-Rua António Mega Ferreira,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2022,CML,Parque das Nações,122.94,0.12294
+148497,0114,Rotunda à Avenida de Pádua,Avenida de Pádua-Rua António Mega Ferreira,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2022,CML,Parque das Nações,71.78,0.07178
+148498,0114,Rua António Mega Ferreira,Avenida de Pádua-Rua António Mega Ferreira,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2022,CML,Parque das Nações,110.5,0.1105
+148499,0114,Rotunda à Avenida de Pádua,Avenida de Pádua-Rua António Mega Ferreira,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2022,CML,Parque das Nações,7.67,0.00767
+148500,0114,Rua António Mega Ferreira,Avenida de Pádua-Rua António Mega Ferreira,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2022,CML,Parque das Nações,226.08,0.22608
+148503,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,11.38,0.01138
+148504,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,11.19,0.01119
+148508,0285,Rua Engº Ferreira de Mesquita,Corredor Estruturante do Vale de Alcântara - Estação de Campolide-Avenida Calouste Gulbenkian,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Campolide,25.87,0.02587
+148510,0213,Ponte ciclopedonal sobre a Radial de Benfica - Pq Calhau - S. Domingos Benfica,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,261.79,0.26179
+148512,0023,Rua Prof. Fernando da Fonseca,Rua Prof. Fernando da Fonseca,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; CML/DMMC/DIOA,Lumiar,511.07,0.51107
+148522,0080,Rua Carlos Gil,Marvila-OR14 - Bairro dos Alfinetes,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,SRU,Marvila,72.19,0.07219
+148523,0080,Rua Carlos Gil,Marvila-OR14 - Bairro dos Alfinetes,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,SRU,Marvila,73.88,0.07388
+148527,0046,Alameda dos Oceanos,Alameda dos Oceanos Sul,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,6.68,0.00668
+148537,0152,Parque de Vale de Chelas - Parque da Bela Vista,T07 - Parque de Vale de Chelas - Parque da Bela Vista,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML/DMEVAE,Marvila,991.3100000000001,0.99131
+148539,0153,Ponte ciclopedonal sobre o Campo Grande - Faculdade de Ciências - Jardim do Campo Grande,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alvalade,184.07,0.18407
+148542,0651,Avenida António Serpa,Planalto - Avenida António Serpa,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,148.26,0.14826
+148548,0140,Rua Fernando Assis Pacheco,Bairro de Campo de Ourique - 1ª fase,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,94.01,0.09401
+148552,0046,Alameda dos Oceanos,Alameda dos Oceanos Sul,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,15.01,0.01501
+148553,0055,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Lumiar,133.79,0.13379
+148561,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,7.71,0.00771
+148562,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,21.53,0.02153
+148563,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,12.77,0.01277
+148564,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,37.93,0.03793
+148565,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,4.1,0.0041
+148571,0140,Rua Coelho da Rocha,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,111.33,0.11133
+148576,0087,Rua Professor Lima Basto,Rua Professor Lima Basto,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,São Domingos de Benfica,714.51,0.71451
+148577,0459,Avenida Cinco de Outubro,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,217.89000000000001,0.21789
+148602,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,20.580000000000002,0.02058
+148606,0281,Parque Quinta da Granja,Quinta da Granja Sul - Quinta da Granja Norte,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Benfica,635.27,0.63527
+148615,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,338.92,0.33892
+148616,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Ajuda,0.16,0.00016
+148617,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Ajuda,0.18,0.00018
+148620,0460,Avenida Prof. Francisco da Gama Caeiro,,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMEVAE,Carnide,359.63,0.35963
+148621,0645,Avenida Infante Dom Henrique,Estação Sul e Sueste,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMU/DEP,Santa Maria Maior,130.66,0.13066
+148627,0136,Rota da Água,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,366.81,0.36681
+148629,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,56.34,0.05634
+148634,0290,Rua Infante Dom Pedro,T12 - Rua de Entrecampos/Rua Infante Dom Pedro,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2015,CML/DMEVAE,Alvalade,282.25,0.28225
+148657,0068,Avenida de Paris,Avenida de Paris,Principal,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMM,Areeiro,104.88,0.10488
+148668,0046,Rotunda República Argentina,Alameda dos Oceanos Sul,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,151.49,0.15149
+148679,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,1063.49,1.06349
+148684,0142,Rua Engº Ferreira Dias,Rua Pardal Monteiro-Rua Eng.º Ferreira Dias,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Marvila,20.91,0.02091
+148689,0476,Caminho das Andorinhas,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,231.82,0.23182
+148692,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,23.5,0.0235
+148694,0189,Rua Roald Amundsen,Fundo Ambiental - Lisboa/Loures (Sacavém),Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Parque das Nações,98.31,0.09831
+148696,0114,Rotunda à Avenida de Pádua,Avenida de Pádua-Rua António Mega Ferreira,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2022,CML,Parque das Nações,8.67,0.00867
+148705,0520,Passeio do Adamastor,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,76.37,0.07637
+148707,0065,Avenida Manuel da Maia,Avenida Manuel da Maia,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM,Areeiro,430.24,0.43024
+148710,0176,Praça do Tejo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,73.61,0.07361
+148711,0196,Passeio das Tágides,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,591.47,0.59147
+148717,0048,Avenida dos Combatentes,Avenida dos Combatentes,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,CML/DMM,São Domingos de Benfica,169.04,0.16904
+148718,0283,Corredor do Vale de Alcântara,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Bairro da Liberdade,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,635.58,0.63558
+148722,0299,Corredor do Vale de Alcântara,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Quinta da Bela Flor,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,238.51,0.23851
+148731,0668,Rua Latino Coelho,Rua Latino Coelho e Rua Doutor António Cândido,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Avenidas Novas,381.29,0.38129
+148753,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,361.82,0.36182
+148763,0267,Rua de Campolide,T15A - Monsanto - Avenida Calouste Gulbenkian,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML/DMEVAE,Campolide,77.25,0.07725
+148765,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,48.88,0.04888
+148766,0664,Rua Brás Pacheco,Rua Brás Pacheco,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,31.66,0.03166
+148777,0140,Rua Professor Gomes Teixeira,Bairro de Campo de Ourique - 1ª fase,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Campo de Ourique,207.13,0.20713
+148787,0448,Avenida General Correia Barreto,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,Campolide,271.34000000000003,0.27134
+148788,0066,Avenida Guerra Junqueiro,Praça de Londres,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Areeiro,33.75,0.03375
+148794,0158,Vila Pouca - Bela Vista,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,128.04,0.12804
+148799,0156,Montado de Monsanto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,488.22,0.48822
+148814,0008,Rua Ernesto Rodrigues,Avenida Paulo VI,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,99.65,0.09965
+148815,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,11.94,0.01194
+148828,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,172.84,0.17284
+148829,0142,Rua Pardal Monteiro,Rua Pardal Monteiro-Rua Eng.º Ferreira Dias,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Marvila,702.22,0.70222
+148834,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,75.74,0.07574
+148836,0661,Rua do Rio Zêzere,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2016,CML,Carnide,37.1,0.0371
+148840,0260,Rua Quinta da Graça,T05 - Jardim do Campo Grande - Parque Vale de Chelas,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2011,CML/DMEVAE,Marvila,309.35,0.30935
+148842,0282,Quinta da Paz - Cemitério de Carnide,Quinta da Paz - Cemitério de Carnide (1ª fase),Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Carnide,235.59,0.23559
+148849,0071,Rua Actor Isidoro,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,362.11,0.36211
+148852,0278,Praça de Espanha,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,Avenidas Novas,140.12,0.14012
+148855,0277,Rua Ricardo Jorge,Planalto - Rua Ricardo Jorge,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT; CML/DMPO,Alvalade,16.91,0.01691
+148856,0191,Quinta dos Alcoutins,Corredor Verde Periférico - Parque da Encosta do Olival - Percurso dos Alcoutins,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML/DMAEVCE,Lumiar,12.23,0.01223
+148857,0633,Travessa das Recolhidas,,Local,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Arroios,75.21000000000001,0.07521
+148863,0501,Jardins de Água,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,122.35000000000001,0.12235
+148865,0272,Avenida de Berlim,Parque Vale de Chelas - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,Olivais,380.94,0.38094
+148869,0401,Percurso ciclopedonal da Cruz das Oliveiras,Viaduto Ciclopedonal da Cruz das Oliveiras,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE,Benfica,286.41,0.28641
+148881,0068,Avenida de Paris,Avenida de Paris,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Areeiro,186.01,0.18601
+148885,0046,Alameda dos Oceanos,Alameda dos Oceanos Sul,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,8.3,0.0083
+148887,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,330.36,0.33036
+148888,0629,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,177.61,0.17761
+148891,0519,Passeio de Ulisses,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,79.08,0.07908
+148892,0058,Rua Prof. Vieira de Almeida,Rua Prof. Vieira de Almeida,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; CML/DMMC/DIOA,Lumiar,164.04,0.16404
+148893,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,313.86,0.31386
+148899,0278,Rua Dr. Nicolau Bettencourt,Praça de Espanha,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,Avenidas Novas,197.45000000000002,0.19745
+148900,0180,Cais das Naus,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,89.91,0.08991
+148901,0521,Passeio do Parque,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,32.42,0.03242
+148907,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Estrela,387.19,0.38719
+148917,0201,Ponte ciclopedonal sobre a A5 - Caselas - Quinta da Marinheira,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,28.95,0.02895
+148918,0210,Ponte ciclopedonal sobre a CRIL - Bairro da Boavista - Alfragide,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,291.29,0.29129
+148922,0270,Parque Oeste - Metro Ameixoeira,Parque Oeste - Metro Ameixoeira,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Santa Clara,262.29,0.26229
+148934,0123,Keil do Amaral,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,150.41,0.15041
+148938,0664,Rua Brás Pacheco,Rua Brás Pacheco,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,29.330000000000002,0.02933
+148939,0109,Rua Carlos Reis,Rua Carlos Reis,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Avenidas Novas,102.48,0.10248
+148944,0137,Rua de Campolide,Rua de Campolide - Av Miguel Torga a Quinta Zé Pinto,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; SRU,Campolide,146.70000000000002,0.1467
+148949,0305,Avenida Frei Miguel Contreiras,T12 - Avenida Frei Miguel Contreiras,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML/DMEVAE,Alvalade,720.0,0.72
+148952,0479,Jardim Campo Grande - Avenida Professor Aníbal Bettencourt,Rotunda de Entrecampos,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Alvalade,66.85,0.06685
+148956,0115,Rua Marquês de Fronteira,Rua Marquês de Fronteira,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Avenidas Novas,409.78000000000003,0.40978
+148957,0263,Passagem superior naturalizada sobre a Avenida Gago Coutinho,Corredor Verde Oriental - Passagem superior naturalizada sobre a Avenida Gago Coutinho,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMAEVCE; EMEL,Marvila,10.9,0.0109
+148962,0239,Avenida da Igreja,Avenida da Igreja (troço Poente),Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT; CML/DPMO,Alvalade,321.16,0.32116
+148966,0278,Avenida dos Combatentes,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,São Domingos de Benfica,93.38,0.09338
+148968,0046,Rua Finisterra,Alameda dos Oceanos Sul,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,9.94,0.00994
+148969,0485,Rua Dom Francisco D'Eça,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,203.0,0.203
+148970,0485,Rua Manuel José da Silva,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,84.75,0.08475
+148971,0485,Rua Dom Francisco D'Eça,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,233.32,0.23332
+148972,0485,Largo da Madre de Deus,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,49.11,0.04911
+148973,0485,Rua Simões Telhadas,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,63.4,0.0634
+148974,0485,Largo da Madre de Deus,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,53.63,0.05363
+148975,0485,Largo da Madre de Deus,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,62.54,0.06254
+148976,0485,Rua Luís Cadote,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,45.57,0.04557
+148977,0485,Rua José da Bateira,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,296.86,0.29686
+148978,0485,Largo da Madre de Deus,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,55.480000000000004,0.05548
+148979,0485,Largo da Madre de Deus,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,55.480000000000004,0.05548
+148980,0485,Rua José da Bateira,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,294.54,0.29454
+148981,0485,Largo da Madre de Deus,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,128.87,0.12887
+148984,0295,Telheiras - Campo Grande (Via Cidade Universitária),T11 - Telheiras - Campo Grande (Via Cidade Universitária),Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Alvalade,1059.7,1.0597
+149008,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,295.7,0.2957
+149009,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,511.53000000000003,0.51153
+149010,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,74.33,0.07433
+149013,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,490.25,0.49025
+149037,0406,Jardim Torre de Belém,Jardim Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Belém,313.53000000000003,0.31353
+149041,0002,Rua Interior à Est. da Correira,Interface Pontinha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMU/DEP,Carnide,417.73,0.41773
+149044,0286,Praça São Francisco de Assis - Avenida das Nações Unidas,Praça São Francisco de Assis - Avenida das Nações Unidas,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2019,CML/DMM,Carnide,473.64,0.47364
+149065,0683,Praça Baden Powell,Avenida Cidade de Luanda - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,124.67,0.12467
+149068,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,48.59,0.04859
+149071,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,433.95,0.43395
+149080,0505,Rua Vieira Lusitano,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,228.18,0.22818
+149081,0505,Rua 2 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,269.33,0.26933
+149082,0505,Rua 6 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,118.05,0.11805
+149083,0505,Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,423.85,0.42385
+149084,0505,Rua 10 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,89.88,0.08988
+149085,0505,Rua 12 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,351.62,0.35162
+149086,0278,Praça de Espanha,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,São Domingos de Benfica,64.75,0.06475
+149091,0505,Rua 12 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,349.77,0.34977
+149092,0505,Rua 10 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,89.10000000000001,0.0891
+149104,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Misericórdia,66.02,0.06602
+149105,0120,Trilho de Corrida,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,203.48000000000002,0.20348
+149117,0002,Rua Interior à Est. da Correira,Interface Pontinha,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMU/DEP,Carnide,42.22,0.04222
+149121,0253,Avenida Dr. Francisco Luís Gomes,Corredor Verde dos Olivais - Pista Ciclável Troço 24B - Parque Urbano dos Olivais/Quinta Conde dos Arcos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMEVAE,Olivais,230.56,0.23056
+149133,0254,Avenida do Santo Condestável,Corredor Verde Oriental - Troço T08A - Percurso do Parque Horticola do Vale de Chelas -Olivais,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2022,CML/DMAEVCE,Marvila,912.1700000000001,0.91217
+149136,0285,Rua Engº Ferreira de Mesquita,Corredor Estruturante do Vale de Alcântara - Estação de Campolide-Avenida Calouste Gulbenkian,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Campolide,116.96000000000001,0.11696
+149145,0157,Moinhos do Mocho,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,2070.6,2.0706
+149149,0158,Vila Pouca - Bela Vista,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,2635.75,2.63575
+149152,0049,Corredor Verde Oriental,Corredor Verde Oriental - Quinta das Flores ligação Rio,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Marvila,235.64000000000001,0.23564
+149153,0287,Rotunda das Calvanas - Avenida do Brasil,T04A - Rotunda das Calvanas - Avenida do Brasil,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMEVAE,Alvalade,758.5,0.7585
+149159,0071,Rua Carlos Mardel,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,206.95000000000002,0.20695
+149161,0293,Rua Tomás da Fonseca,Rua Tomás da Fonseca - Azinhaga das Galhardas,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,563.78,0.56378
+149162,0086,Avenida dos Defensores de Chaves,Avenida Defensores de Chaves,Complementar,Faixa Ciclável,Faixa ciclável (separação visual),Provisória,Executado,2019,CML/DMM,Arroios,294.63,0.29463
+149179,0020,Avenida da Liberdade,Avenida da Liberdade,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Santo António,1122.46,1.12246
+149184,0669,Rua Portugal Durão,Rua Portugal Durão,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Avenidas Novas,159.61,0.15961
+149185,0407,Ligação Alameda dos Oceanos/ Pista Ribeirinha,ZON - Ligação Alameda dos Oceanos/ Pista Ribeirinha,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML/DMU/DEP,Parque das Nações,94.11,0.09411
+149189,0393,Eixo Central,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML,Santa Clara,9.97,0.00997
+149191,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,38.76,0.03876
+149195,0186,Rua Padre António Vieira,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,215.77,0.21577
+149196,0481,Eixo Central,,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,343.44,0.34344
+149198,0641,Avenida Guerra Junqueiro,Avenida Guerra Junqueiro,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMM,Areeiro,295.54,0.29554
+149205,0198,Passeio dos Jacarandás,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,59.08,0.05908
+149211,0520,Passeio do Adamastor,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,7.59,0.00759
+149218,0683,Praça Baden Powell,Avenida Cidade de Luanda - Fase 2,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,EMEL,Olivais,27.01,0.02701
+149222,0265,Avenida Infante Dom Henrique,Loteamento Braço de Prata,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML,Marvila,17.62,0.01762
+149223,0265,Parque Ribeirinho Oriente,Loteamento Braço de Prata,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML,Marvila,612.89,0.61289
+149225,0139,Rua Castilho,Rua Castilho - Fase 1,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Avenidas Novas,620.67,0.62067
+149227,0206,Ponte ciclopedonal sobre a Av. Infante Santo - Rua Cova da Moura,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Estrela,15.610000000000001,0.01561
+149228,0055,Estrada do Desvio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Lumiar,1.1,0.0011
+149230,0122,Rua de Dona Estefânia,Rua de Dona Estefânia,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,EMEL,Arroios,356.44,0.35644
+149231,0183,Alto do Duque,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Belém,4243.27,4.24327
+149232,0294,Avenida Infante Dom Henrique,T22 - Santa Apolónia - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMEVAE,São Vicente,897.0500000000001,0.89705
+149233,0173,Passeio de Neptuno,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,638.5600000000001,0.63856
+149235,0459,Avenida Luís Bivar,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,332.37,0.33237
+149241,0172,Corredor Verde Oriental,Corredor Verde Oriental - Vale Fundão - Expansão do Parque de Vale Fundão,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMEVAE,Marvila,377.98,0.37798
+149242,0142,Rua Engº Ferreira Dias,Rua Pardal Monteiro-Rua Eng.º Ferreira Dias,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Marvila,646.5,0.6465
+149243,0046,Alameda dos Oceanos,Alameda dos Oceanos Sul,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,445.49,0.44549
+149249,0184,Campismo - Chaminés Del Rei,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,598.0600000000001,0.59806
+149250,0184,Campismo - Chaminés Del Rei,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,1495.33,1.49533
+149251,0184,Campismo - Chaminés Del Rei,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,1770.55,1.77055
+149258,0520,Passeio do Adamastor,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,140.57,0.14057
+149262,0282,Quinta da Paz - Cemitério de Carnide,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Carnide,147.36,0.14736
+149265,0529,Praça do Marquês de Pombal,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM; UCT,Avenidas Novas,20.52,0.02052
+149273,0505,Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,70.87,0.07087
+149274,0505,Rua 10 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,192.03,0.19203
+149275,0505,Rua 7 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,288.12,0.28812
+149276,0505,Rua 5 do Bairro da Calçada dos Mestres,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,77.06,0.07706
+149277,0505,Calçada da Quintinha,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,217.19,0.21719
+149278,0505,Rua Conde das Antas,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,122.83,0.12283
+149279,0505,Rua Conde das Antas,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,219.8,0.2198
+149280,0505,Rua General Taborda,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,291.56,0.29156
+149282,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,363.69,0.36369
+149283,0254,Avenida do Santo Condestável,Corredor Verde Oriental - Troço T08A - Percurso do Parque Horticola do Vale de Chelas -Olivais,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2022,CML/DMAEVCE,Marvila,9.32,0.00932
+149287,0044,Estrada da Circunvalação,Parque Florestal de Monsanto - Troço T25 - Parque de Campismo de Lisboa/Rotunda de Pina Manique,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Benfica,1039.07,1.03907
+149288,0208,Ponte ciclopedonal sobre a Rua Marquês da Fronteira - Palácio da Justiça - Jardim Amália Rodrigues,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Avenidas Novas,33.26,0.03326
+149290,0186,Rua Sampaio e Pina,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,212.52,0.21252
+149296,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Misericórdia,176.39000000000001,0.17639
+149297,0297,Avenida Vinte e Quatro de Julho,UPCB - Largo de Santos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Misericórdia,330.7,0.3307
+149298,0173,Passeio de Neptuno,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Marvila,20.95,0.02095
+149304,0268,Estrada da Pontinha - Avenida Prof. Gama Caeiro,Ligação Ciclável Pontinha-Av. Professor Gama Caeiro,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2022,CML/DMAEVCE,Carnide,631.63,0.63163
+149308,0294,Avenida Infante Dom Henrique,T22 - Santa Apolónia - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMEVAE,Penha de França,752.75,0.75275
+149313,0123,Keil do Amaral,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,787.0,0.787
+149314,0066,Praça de Londres,Praça de Londres,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM; EMEL,Areeiro,225.71,0.22571
+149315,0041,Ponte Ciclopedonal sobre o Rio Trancão,Parque Trancão - Ponte Ciclopedonal sobre o Rio Trancão,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML/DMAEVCE; EMEL,Parque das Nações,113.39,0.11339
+149316,0136,Rota da Água,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,626.15,0.62615
+149321,0028,Rua Afonso Lopes Vieira,Rua Afonso Lopes Vieira,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,118.98,0.11898
+149322,0641,Avenida Guerra Junqueiro,Avenida Guerra Junqueiro,Principal,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMM,Areeiro,308.23,0.30823
+149328,0123,Keil do Amaral,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Ajuda,451.74,0.45174
+149331,0650,Parada do Alto de São João,UPCB - Parada do Alto de São João,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMU/DEP; CML/DMMC/DIOA,Penha de França,66.82000000000001,0.06682
+149332,0650,Parada do Alto de São João,UPCB - Parada do Alto de São João,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMU/DEP; CML/DMMC/DIOA,Penha de França,60.99,0.06099
+149333,0650,Parada do Alto de São João,UPCB - Parada do Alto de São João,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMU/DEP; CML/DMMC/DIOA,Penha de França,141.13,0.14113
+149335,0270,Parque Oeste - Metro Ameixoeira,Parque Oeste - Metro Ameixoeira,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Santa Clara,152.35,0.15235
+149340,0164,Rua dos Eucaliptos,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,677.04,0.67704
+149363,0633,Travessa das Recolhidas,,Local,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Arroios,28.650000000000002,0.02865
+149367,0071,Rua Lucinda do Carmo,Bairros 30+Bici - Bairro dos Actores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Areeiro,202.27,0.20227
+149375,0004,Parque Urbano da Quinta da Montanha,Parque Urbano da Quinta da Montanha - Fase 1,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMEVAE,Areeiro,88.43,0.08843
+149376,0004,Parque Urbano da Quinta da Montanha,Parque Urbano da Quinta da Montanha - Fase 1,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2018,CML/DMEVAE,Alvalade,30.740000000000002,0.03074
+149377,0297,Avenida Vinte e Quatro de Julho,UPCB - Largo de Santos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Estrela,434.46000000000004,0.43446
+149381,0529,Praça do Marquês de Pombal,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM; UCT,Santo António,20.29,0.02029
+149383,0266,Avenida Cidade do Porto,Mata de Alvalade - Parque Urbano dos Olivais,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Olivais,873.26,0.87326
+149395,0273,Passagem Ciclopedonal sobre a Calçada de Carriche,Corredor Verde Periférico - Ponte ciclopedonal sobre a Calçada de Carriche,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMAEVCE,Lumiar,149.45000000000002,0.14945
+149398,0046,Rua das Musas,Alameda dos Oceanos Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,31.69,0.03169
+149403,0278,Praça de Espanha,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,Avenidas Novas,18.61,0.01861
+149408,0011,Avenida Cidade de Luanda,Avenida Cidade de Luanda - Fase 1,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,853.19,0.85319
+149417,0198,Passeio dos Jacarandás,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,23.84,0.02384
+149421,0232,Telheiras-Campo Grande,,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2010,CML,Lumiar,176.36,0.17636
+149430,0459,Avenida Cinco de Outubro,Bairros 30+Bici - Bairro de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,229.93,0.22993
+149431,0088,Avenida Álvaro Pais,Avenida Álvaro Pais,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,41.04,0.04104
+149434,0295,Alameda da Universidade,T11 - Telheiras - Campo Grande (Via Cidade Universitária),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Alvalade,311.17,0.31117
+149439,0657,Praça Marechal Humberto Delgado,UPCB - Requalificação Praça Marechal Humberto Delgado - Sete Rios,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2024,CML/DMU/DEP; CML/DMMC/DIOA,São Domingos de Benfica,429.16,0.42916
+149443,0687,Troço da Frente Ribeirinha,Cais Sodré - Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/UCT/UITCH,Estrela,267.28000000000003,0.26728
+149445,0123,Keil do Amaral,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,81.08,0.08108
+149446,0057,Circuito Acessível,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,87.52,0.08752
+149447,0057,Circuito Acessível,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,624.5600000000001,0.62456
+149462,0205,Ponte ciclopedonal sobre a Av. Infante D. Henrique - Rua do Vale Formoso de Cima - Azinhaga do Vale Fundão,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Marvila,204.82,0.20482
+149463,0212,Ponte ciclopedonal sobre a Radial de Benfica - Avenida General Correia Barreto - Av. Conde de Almoster,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,256.22,0.25622
+149467,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,11.66,0.01166
+149491,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,10.700000000000001,0.0107
+149494,0285,Rua Engº Ferreira de Mesquita,Corredor Estruturante do Vale de Alcântara - Estação de Campolide-Avenida Calouste Gulbenkian,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Campolide,124.61,0.12461
+149495,0095,Campo Grande,Jardim do Campo Grande,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Alvalade,75.84,0.07584
+149496,0095,Campo Grande,Jardim do Campo Grande,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Alvalade,213.39000000000001,0.21339
+149498,0189,Rua Roald Amundsen,Fundo Ambiental - Lisboa/Loures (Sacavém),Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,EMEL,Parque das Nações,141.62,0.14162
+149499,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,230.37,0.23037
+149500,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,8.72,0.00872
+149501,0058,Rua Prof. Vieira de Almeida,Rua Prof. Vieira de Almeida,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; CML/DMMC/DIOA,Lumiar,193.41,0.19341
+149512,0651,Avenida António Serpa,Planalto - Avenida António Serpa,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,147.73,0.14773
+149515,0400,Alameda das Linhas de Torres - Rua Alexandre Ferreira,UPCB - Alameda das Linhas de Torres,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Lumiar,188.88,0.18888
+149524,0124,Volta do Planalto,,Local,Trilho,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,57.9,0.0579
+149528,0122,Rua de Dona Estefânia,Rua de Dona Estefânia,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,EMEL,Arroios,357.35,0.35735
+149530,0566,Campo Grande,Via Lateral do Campo Grande,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Alvalade,239.87,0.23987
+149533,0046,Rua Finisterra,Alameda dos Oceanos Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,105.52,0.10552
+149534,0479,Campo Grande,Rotunda de Entrecampos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Alvalade,110.10000000000001,0.1101
+149546,0218,Rua António Quadros,,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,31.17,0.03117
+149551,0020,Avenida da Liberdade,Avenida da Liberdade,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Santo António,1111.2,1.1112
+149552,0272,Rua Pardal Monteiro,Parque Vale de Chelas - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML,Marvila,469.22,0.46922
+149553,0162,Rua Hermano Neves,Parque Quinta da Granja Sul - Telheiras,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Lumiar,69.9,0.0699
+149561,0068,Avenida de Paris,Avenida de Paris,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMM,Areeiro,6.58,0.00658
+149568,0225,Rua Marquês de Fronteira,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2015,CML/DMEVAE,Avenidas Novas,47.83,0.04783
+149577,0218,Rua António Quadros,,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,50.370000000000005,0.05037
+149578,0115,Rua Marquês de Fronteira,Rua Marquês de Fronteira,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Campolide,8.040000000000001,0.00804
+149593,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Belém,2.81,0.00281
+149595,0294,Santa Apolónia - Parque das Nações,T22 - Santa Apolónia - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML/DMEVAE,Marvila,842.77,0.84277
+149599,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,335.39,0.33539
+149600,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,228.17000000000002,0.22817
+149601,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,37.03,0.03703
+149602,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,542.4,0.5424
+149603,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Carnide,342.83,0.34283
+149606,0505,Rua Ferreira de Chaves,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,125.62,0.12562
+149607,0505,Rua Vitor Bastos,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,347.91,0.34791
+149608,0505,Rua Leandro Braga,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,99.98,0.09998
+149609,0505,Rua Soares dos Reis,Bairros 30+Bici - Bairro da Calçada dos Mestres,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,99.44,0.09944
+149613,0279,Avenida Vinte e Quatro de Julho,Projeto Reperfilamento Avenida 24 de Julho,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Misericórdia,306.66,0.30666
+149626,0481,Eixo Central,,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,447.99,0.44799
+149628,0090,Cais Português,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,289.66,0.28966
+149630,0293,Rua Tomás da Fonseca,Rua Tomás da Fonseca - Azinhaga das Galhardas,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Alvalade,313.0,0.313
+149650,0004,Parque Urbano da Quinta da Montanha,Parque Urbano da Quinta da Montanha - Fase 1,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMEVAE,Marvila,312.16,0.31216
+149651,0529,Praça do Marquês de Pombal,,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM; UCT,Santo António,33.49,0.03349
+149652,0049,Corredor Verde Oriental,Corredor Verde Oriental - Quinta das Flores ligação Rio,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Marvila,251.47,0.25147
+149653,0200,Ponte ciclopedonal sobre a 2ª Circular,,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2015,CML,Carnide,246.81,0.24681
+149663,0278,Praça de Espanha,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,São Domingos de Benfica,47.410000000000004,0.04741
+149666,0200,Ponte ciclopedonal sobre a 2ª Circular,,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2015,CML,São Domingos de Benfica,294.29,0.29429
+149669,0028,Rua Afonso Lopes Vieira,Rua Afonso Lopes Vieira,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,686.22,0.68622
+149675,0298,Calçada da Estação,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Estação de Campolide,Complementar,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,195.62,0.19562
+149676,0129,Estrada do Desvio,Estrada do Desvio,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Santa Clara,447.29,0.44729
+149694,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMM,Olivais,80.27,0.08027
+149695,0209,Ponte ciclopedonal sobre a Avenida Doutor Alfredo Bensaúde - Encarnação - Portela,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Olivais,172.51,0.17251
+149699,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,47.14,0.04714
+149704,0448,Avenida General Correia Barreto,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,Benfica,1126.63,1.12663
+149707,0668,Rua Latino Coelho,Rua Latino Coelho e Rua Doutor António Cândido,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Avenidas Novas,388.47,0.38847
+149708,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,536.12,0.53612
+149718,0095,Campo Grande,Jardim do Campo Grande,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Alvalade,17.01,0.01701
+149722,0232,Telheiras-Campo Grande,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML,Lumiar,109.4,0.1094
+149724,0279,Avenida Vinte e Quatro de Julho,Projeto Reperfilamento Avenida 24 de Julho,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Misericórdia,73.81,0.07381
+149727,0011,Avenida Cidade de Luanda,Avenida Cidade de Luanda - Fase 1,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,881.65,0.88165
+149730,0191,Quinta dos Alcoutins,Corredor Verde Periférico - Parque da Encosta do Olival - Percurso dos Alcoutins,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2023,CML/DMAEVCE,Lumiar,1184.27,1.18427
+149737,0295,Rua Interior à Alameda da Universidade,T11 - Telheiras - Campo Grande (Via Cidade Universitária),Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Alvalade,544.77,0.54477
+149753,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Misericórdia,202.95000000000002,0.20295
+149754,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2009,CML/DMEVAE,Misericórdia,183.96,0.18396
+149755,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,14.66,0.01466
+149760,0002,Avenida 25 de Abril (Pontinha),Interface Pontinha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMU/DEP,Carnide,105.4,0.1054
+149769,0046,Alameda dos Oceanos,Alameda dos Oceanos Sul,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMM; EMEL,Parque das Nações,423.15000000000003,0.42315
+149780,0272,Parque Municipal do Vale do Silêncio,Parque Vale de Chelas - Parque das Nações,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,Olivais,278.85,0.27885
+149783,0067,Rua Edison,Rua Edison,Local,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMM,Areeiro,109.64,0.10964
+149786,0298,Calçada da Estação,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Estação de Campolide,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,198.81,0.19881
+149795,0286,Praça São Francisco de Assis - Avenida das Nações Unidas,Praça São Francisco de Assis - Avenida das Nações Unidas,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2019,CML/DMM,Carnide,32.47,0.03247
+149801,0050,Alameda dos Oceanos,Alameda dos Oceanos Norte,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,732.17,0.73217
+149810,0022,Avenida Lusíada,Avenida Lusíada,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Benfica,739.42,0.73942
+149825,0055,Estrada do Desvio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Lumiar,6.2,0.0062
+149826,0055,Estrada do Desvio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Santa Clara,11.94,0.01194
+149833,0277,Rua Ricardo Jorge,Planalto - Rua Ricardo Jorge,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT; CML/DMPO,Alvalade,169.70000000000002,0.1697
+149840,0664,Rua Brás Pacheco,Rua Brás Pacheco,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,30.490000000000002,0.03049
+149843,0007,Avenida de Pádua,Avenida de Pádua - Fase 1,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Olivais,502.95,0.50295
+149854,0202,Ponte ciclopedonal sobre a Av. das Descobertas - Colégio S. José - Secundária do Restelo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Belém,156.81,0.15681
+149855,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Benfica,18.34,0.01834
+149856,0522,Passeio do Sapal,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,43.79,0.04379
+149858,0298,Calçada da Estação,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Estação de Campolide,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,377.7,0.3777
+149859,0005,Avenida Marechal Gomes da Costa,Avenida Marechal Gomes da Costa,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Olivais,766.1700000000001,0.76617
+149861,0005,Avenida Marechal Gomes da Costa,Avenida Marechal Gomes da Costa,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Olivais,796.37,0.79637
+149862,0282,Quinta da Paz - Cemitério de Carnide,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Carnide,399.24,0.39924
+149877,0004,Parque Urbano da Quinta da Montanha,Parque Urbano da Quinta da Montanha - Fase 1,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMEVAE,Areeiro,208.38,0.20838
+149880,0236,Parque hortícola do Vale de Chelas,Parque hortícola do Vale de Chelas,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML/DMEVAE,Marvila,1069.65,1.06965
+149882,0209,Ponte ciclopedonal sobre a Avenida Doutor Alfredo Bensaúde - Encarnação - Portela,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Olivais,166.45000000000002,0.16645
+149887,0055,Estrada do Desvio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Santa Clara,1.47,0.00147
+149888,0278,Avenida dos Combatentes,Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,SRU,Avenidas Novas,27.34,0.02734
+149894,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,SRU,Santa Clara,115.48,0.11548
+149898,0023,Rua Prof. Fernando da Fonseca,Rua Prof. Fernando da Fonseca,Principal,30+Bici,Via banalizada (coexistência),Provisória,Executado,2021,CML/DMM; CML/DMMC/DIOA,Lumiar,100.85000000000001,0.10085
+149904,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Estrela,1670.72,1.67072
+149915,0270,Parque Quinta Mata Mouros - Parque Quinta das Conchas,Parque Quinta Mata Mouros - Parque Quinta das Conchas,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Santa Clara,150.13,0.15013
+149916,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,37.62,0.03762
+149917,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,11.42,0.01142
+149918,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,68.67,0.06867
+149935,0482,Estrada Bela Vista,,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2001,CML,Benfica,2071.18,2.07118
+149942,0070,Rua Fernando Namora,Arruamento Escola Básica de São Vicente de Telheiras,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMAEVCE,Lumiar,24.0,0.024
+149943,0070,Rua Fernando Namora,Arruamento Escola Básica de São Vicente de Telheiras,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMAEVCE,Lumiar,87.69,0.08769
+149955,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Alcântara,784.19,0.78419
+149961,0055,Estrada do Desvio,Corredor Verde Periférico - Ligação Ponte/Vale da Ameixoeira e Praça,Complementar,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Santa Clara,179.38,0.17938
+149964,0203,Ponte ciclopedonal sobre a Av. de Ceuta - Rua Qta do Loureiro,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Alcântara,90.8,0.0908
+149965,0500,Jardim dos Jacarandás,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,140.87,0.14087
+149967,0020,Avenida da Liberdade,Avenida da Liberdade,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Santa Maria Maior,4.66,0.00466
+149974,0524,Passeio dos Heróis do Mar,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,19.2,0.0192
+149975,0295,Alameda da Universidade,T11 - Telheiras - Campo Grande (Via Cidade Universitária),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Alvalade,210.95000000000002,0.21095
+149976,0267,Rua de Campolide,T15A - Monsanto - Avenida Calouste Gulbenkian,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML/DMEVAE,Campolide,343.89,0.34389
+149984,0189,Rua Roald Amundsen,Fundo Ambiental - Lisboa/Loures (Sacavém),Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,EMEL,Parque das Nações,139.72,0.13972
+149986,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,79.96000000000001,0.07996
+149988,0008,Avenida Paulo VI,Avenida Paulo VI,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Marvila,278.23,0.27823
+149998,0673,Avenida Cidade de Praga,ZON - Avenida Cidade de Praga,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Carnide,1024.79,1.02479
+150008,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,27.47,0.02747
+150009,0272,Vale do Silêncio,Parque Vale de Chelas - Parque das Nações,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML,Olivais,1161.74,1.16174
+150015,0253,Jardim Eduardo Prado Coelho,Corredor Verde dos Olivais - Pista Ciclável Troço 24B - Parque Urbano dos Olivais/Quinta Conde dos Arcos,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMEVAE,Olivais,541.84,0.54184
+150021,0213,Ponte ciclopedonal sobre a Radial de Benfica - Pq Calhau - S. Domingos Benfica,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,São Domingos de Benfica,56.59,0.05659
+150022,0208,Ponte ciclopedonal sobre a Rua Marquês da Fronteira - Palácio da Justiça - Jardim Amália Rodrigues,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,63.690000000000005,0.06369
+150029,0282,Quinta da Paz - Cemitério de Carnide,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Lumiar,140.97,0.14097
+150039,0050,Alameda dos Oceanos,Alameda dos Oceanos Norte,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,32.28,0.03228
+150041,0127,Rua Conde de Almoster,Rua Conde de Almoster,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,São Domingos de Benfica,1659.7,1.6597
+150048,0218,Rua António Quadros,,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Lumiar,33.26,0.03326
+150049,0070,Arruamento Escola Básica de São Vicente de Telheiras,Arruamento Escola Básica de São Vicente de Telheiras,Local,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMAEVCE,Lumiar,210.01,0.21001
+150060,0204,Ponte ciclopedonal sobre a Av. Dr. Francisco Luís Gomes,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Olivais,200.13,0.20013
+150061,0048,Avenida dos Combatentes,Avenida dos Combatentes,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,CML/DMM,Avenidas Novas,647.29,0.64729
+150065,0523,Passeio do Tejo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,30.2,0.0302
+150066,0523,Passeio do Tejo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,168.1,0.1681
+150112,0186,Rua Rodrigo da Fonseca,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,543.9,0.5439
+150113,0186,Rua Rodrigo da Fonseca,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,555.02,0.55502
+150115,0271,Parque Quinta da Granja Norte - Parque Quinta Mata Mouros,Parque Quinta da Granja Norte - Parque Quinta Mata Mouros,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML,Carnide,456.12,0.45612
+150116,0225,Rua Marquês de Fronteira,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2015,CML/DMEVAE,Avenidas Novas,326.16,0.32616
+150117,0201,Ponte ciclopedonal sobre a A5 - Caselas - Quinta da Marinheira,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Belém,35.21,0.03521
+150118,0238,Praça Espanha,Avenida Calouste Gulbenkian - Praça de Espanha,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML,Campolide,6.65,0.00665
+150128,0269,Quinta da Bela Vista - Quinta da Montanha (Olaias),T09 - Quinta da Bela Vista - Quinta da Montanha (Olaias),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2012,CML/DMEVAE,Areeiro,342.40000000000003,0.3424
+150129,0238,Rua Dr. Nicolau Bettencourt,T16 - Avenida Calouste Gulbenkian - Praça de Espanha,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2010,CML/DMEVAE,Avenidas Novas,203.61,0.20361
+150130,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2009,CML/DMEVAE,Misericórdia,173.98,0.17398
+150142,0164,Alameda da Encarnação,Zona 30 - Bairro da Encarnação,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2019,CML/DMM,Olivais,121.29,0.12129
+150145,0207,Ponte ciclopedonal sobre a Av. Marechal António Spínola - Parque Urbano do Vale Fundão - Marvila,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Marvila,213.9,0.2139
+150148,0295,Alameda da Universidade,T11 - Telheiras - Campo Grande (Via Cidade Universitária),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2009,CML/DMEVAE,Alvalade,41.1,0.0411
+150153,0141,Azinhaga da Cidade,Requalificação do espaço público na Azinhaga da Cidade,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,EMEL,Santa Clara,84.16,0.08416
+150154,0112,Rua da Casquilha,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,464.3,0.4643
+150161,0282,Quinta da Paz - Cemitério de Carnide,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Lumiar,89.89,0.08989
+150164,0260,Avenida do Brasil,T05 - Jardim do Campo Grande - Parque Vale de Chelas,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2011,CML/DMEVAE,Alvalade,1160.3,1.1603
+150165,0260,Avenida do Brasil,T05 - Jardim do Campo Grande - Parque Vale de Chelas,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2011,CML/DMEVAE,Alvalade,438.32,0.43832
+150171,0112,Rua da Casquilha,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,510.79,0.51079
+150172,0243,Avenida Duque d'Ávila,Avenida Duque d'Ávila,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2011,CML/DMEVAE,Avenidas Novas,909.49,0.90949
+150173,0298,Calçada da Estação,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Estação de Campolide,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,12.97,0.01297
+150174,0306,Campo Grande,,Principal,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML/DMEVAE,Alvalade,95.43,0.09543
+150175,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,525.77,0.52577
+150178,0689,Alameda da Universidade,Alameda da Universidade,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2013,CML,Alvalade,66.44,0.06644
+150185,0023,Rua Prof. Fernando da Fonseca,Rua Prof. Fernando da Fonseca,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; CML/DMMC/DIOA,Lumiar,264.31,0.26431
+150187,0005,Avenida Marechal Gomes da Costa,Avenida Marechal Gomes da Costa,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Olivais,699.0,0.699
+150188,0004,Parque Urbano da Quinta da Montanha,Parque Urbano da Quinta da Montanha - Fase 1,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMEVAE,Marvila,611.62,0.61162
+150190,0200,Ponte ciclopedonal sobre a 2ª Circular,,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2015,CML,Carnide,2.25,0.00225
+150199,0529,Praça do Marquês de Pombal,,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2020,CML/DMM; UCT,Avenidas Novas,13.39,0.01339
+150208,0210,Ponte ciclopedonal sobre a CRIL - Bairro da Boavista - Alfragide,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,90.28,0.09028
+150209,0298,Rua B do Bairro da Liberdade,Corredor Estruturante do Vale de Alcântara - Unidade de Projeto Estação de Campolide,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2019,CML/DMAEVCE,Campolide,14.82,0.01482
+150221,0152,Parque da Bela Vista - Parque hortícola de Chelas,Parque da Bela Vista - Parque hortícola de Chelas,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Marvila,754.32,0.75432
+150224,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,19.23,0.01923
+150225,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,6.43,0.00643
+150226,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,SRU,Santa Clara,110.58,0.11058
+150227,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,16.01,0.01601
+150228,0402,Via Estruturante de Santa Clara,Via Estruturante e de Coesão de Santa Clara - 1ª Fase - Requalificação da Avenida Glicínia Quartin,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,SRU,Santa Clara,10.700000000000001,0.0107
+150234,0218,Rua António Quadros,,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,125.87,0.12587
+150250,0566,Rua Interior à Alameda da Universidade,Via Lateral do Campo Grande,Principal,Contrassentido,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Alvalade,29.73,0.02973
+150251,0566,Rua Interior à Alameda da Universidade,Via Lateral do Campo Grande,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,Alvalade,12.43,0.01243
+150254,0294,Santa Apolónia - Parque das Nações,T22 - Santa Apolónia - Parque das Nações,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2013,CML/DMEVAE,Marvila,128.17000000000002,0.12817
+150255,0294,Santa Apolónia - Parque das Nações,T22 - Santa Apolónia - Parque das Nações,Principal,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2013,CML/DMEVAE,Marvila,128.41,0.12841
+150257,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,222.71,0.22271
+150258,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,816.84,0.81684
+150259,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,207.89000000000001,0.20789
+150260,0186,Rua Dom Francisco Manuel de Melo,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,218.63,0.21863
+150261,0186,Rua Dom Francisco Manuel de Melo,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,221.05,0.22105
+150280,0485,Rua Marquês de Olhão,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,304.21,0.30421
+150281,0485,Rua Marquês de Olhão,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,275.07,0.27507
+150287,0268,Estrada da Pontinha - Avenida Prof. Gama Caeiro,Ligação Ciclável Pontinha-Av. Professor Gama Caeiro,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2022,CML/DMAEVCE,Carnide,441.47,0.44147
+150288,0022,Avenida Lusíada,Avenida Lusíada,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; EMEL,São Domingos de Benfica,1968.69,1.96869
+150291,0191,Quinta dos Alcoutins,Corredor Verde Periférico - Parque da Encosta do Olival - Percurso dos Alcoutins,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2023,CML/DMAEVCE,Lumiar,167.05,0.16705
+150298,0661,Rua do Rio Zêzere,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,2016,CML,Carnide,38.64,0.03864
+150299,0661,Rua do Rio Zêzere,Quinta da Paz - Cemitério de Carnide (1ª fase),Complementar,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,2016,CML,Carnide,29.740000000000002,0.02974
+150300,0295,Telheiras - Campo Grande (Via Cidade Universitária),T11 - Telheiras - Campo Grande (Via Cidade Universitária),Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2009,CML/DMEVAE,Alvalade,89.81,0.08981
+150302,0186,Rua Marquês de Subserra,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,208.14000000000001,0.20814
+150317,0242,Avenida de Brasília,Avenida de Brasília,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2018,CML/DMU/DEP,Belém,1133.18,1.13318
+150320,0685,Avenida Infante Dom Henrique,Avenida Infante Dom Henrique (Terminal de Cruzeiros - Estação de Santa Apolónia),Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,São Vicente,6.140000000000001,0.00614
+150321,0186,Rua Marquês de Subserra,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,205.79,0.20579
+150329,0307,Campo Grande,,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Alvalade,742.72,0.74272
+150332,0141,Azinhaga da Cidade,Requalificação do espaço público na Azinhaga da Cidade,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,EMEL,Lumiar,341.73,0.34173
+150335,0290,Rua Infante Dom Pedro,T12 - Rua de Entrecampos/Rua Infante Dom Pedro,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2015,CML/DMEVAE,Alvalade,112.82000000000001,0.11282
+150336,0290,Rua Infante Dom Pedro,T12 - Rua de Entrecampos/Rua Infante Dom Pedro,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2015,CML/DMEVAE,Alvalade,109.92,0.10992
+150338,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,28.73,0.02873
+150339,0023,Rua Prof. Fernando da Fonseca,Rua Prof. Fernando da Fonseca,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,CML/DMM; CML/DMMC/DIOA,Lumiar,853.19,0.85319
+150341,0186,Rua Sampaio e Pina,Bairros 30+Bici - Bairro do Alto do Parque,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,212.3,0.2123
+150343,0251,Troço da Frente Ribeirinha,T18 - Cais do Sodré - Torre de Belém,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,2009,CML/DMEVAE,Alcântara,16.36,0.01636
+150345,0523,Passeio do Tejo,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,61.14,0.06114
+150347,0050,Alameda dos Oceanos,Alameda dos Oceanos Norte,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Parque das Nações,31.060000000000002,0.03106
+150353,0481,Eixo Central,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Lumiar,154.82,0.15482
+150356,0199,Ponte ciclopedonal Bairro de Santa Cruz Benfica - Amadora,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Benfica,135.39000000000001,0.13539
+150360,0260,Avenida do Brasil,T05 - Jardim do Campo Grande - Parque Vale de Chelas,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2011,CML/DMEVAE,Alvalade,324.27,0.32427
+150364,0250,Rua Brito Aranha,Bairro Arco Cego,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Areeiro,3.3000000000000003,0.0033
+150368,0160,Rua Ten. Coronel Ribeiro dos Reis,T01 - Parque Florestal de Monsanto - Parque da Quinta da Granja,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,Sem dados,CML/DMEVAE,Benfica,205.22,0.20522
+150369,0286,Praça São Francisco de Assis - Avenida das Nações Unidas,Praça São Francisco de Assis - Avenida das Nações Unidas,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2019,CML/DMM,Carnide,489.18,0.48918
+150370,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2021,EMEL,Benfica,264.98,0.26498
+150374,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,585.32,0.58532
+150375,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Faixa Ciclável,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,68.02,0.06802
+150376,0043,Tapada da Ajuda,Tapada da Ajuda,Local,Contrassentido,Faixa ciclável (separação visual),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,230.58,0.23058
+150377,0043,Tapada da Ajuda,Tapada da Ajuda,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2021,ISA; CML/DMAEVCE,Alcântara,589.65,0.58965
+150400,0522,Passeio do Sapal,,Local,Percurso Ciclopedonal,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Parque das Nações,103.61,0.10361
+150401,0073,Rua da Palma,Avenida Almirante Reis - Fase 2,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2022,CML/DMM; CML/DMMC/DIOA,Santa Maria Maior,293.47,0.29347
+150405,0285,Avenida Calouste Gulbenkian,Corredor Estruturante do Vale de Alcântara - Estação de Campolide-Avenida Calouste Gulbenkian,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,CML/DMAEVCE; EMEL,Campolide,727.53,0.72753
+150406,0115,Rua Marquês de Fronteira,Rua Marquês de Fronteira,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,2020,EMEL,Campolide,36.83,0.03683
+150412,0189,Via do Oriente,Fundo Ambiental - Lisboa/Loures (Sacavém),Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2021,EMEL,Parque das Nações,11.53,0.01153
+150417,0093,Avenida Marechal Teixeira Rebelo,Avenida Marechal Teixeira Rebelo,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Provisória,Executado,Sem dados,CML,Benfica,20.94,0.02094
+150418,0070,Rua Fernando Namora,Arruamento Escola Básica de São Vicente de Telheiras,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMAEVCE,Lumiar,81.15,0.08115
+150449,0485,Rua Lino Helder,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,67.58,0.06758
+150450,0485,Rua Rocha Santos,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,173.44,0.17344
+150451,0485,Rua Manuel José da Silva,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,157.9,0.1579
+150452,0485,Rua Luís Cadote,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,47.81,0.04781
+150453,0485,Rua Vicente Ribeiro,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,184.20000000000002,0.1842
+150454,0485,Rua Rocha Santos,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,144.27,0.14427
+150455,0485,Largo da Madre de Deus,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,57.160000000000004,0.05716
+150456,0485,Rua Dom Luís Coutinho,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,211.16,0.21116
+150457,0485,Rua Carlos José Caldeira,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,58.34,0.05834
+150458,0485,Rua Vicente Ribeiro,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,129.34,0.12934
+150459,0485,Rua Dom Luís Coutinho,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,249.9,0.2499
+150461,0112,Rua Prof. Jorge da Silva Horta,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,169.53,0.16953
+150465,0485,Rua José Leilote,Bairros 30+Bici - Bairro da Madre Deus,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Beato,266.28000000000003,0.26628
+150468,0487,Rua Francisco Metrass,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,204.83,0.20483
+150469,0487,Rua do Quatro de Infantaria,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,200.66,0.20066
+150470,0487,Rua Tomás de Anunciação,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,639.59,0.63959
+150471,0112,Rua da Venezuela,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,10.94,0.01094
+150660,0110,Rua Dom Cristóvão da Gama,Bairros 30+Bici - Bairro do Restelo,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Belém,835.23,0.83523
+150784,0487,Rua de Campo de Ourique,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,131.21,0.13121
+150955,0110,Rua Dom Francisco de Almeida,Bairros 30+Bici - Bairro do Restelo,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Belém,583.58,0.58358
+150991,0371,Avenida Marechal Craveiro Lopes,Calvanas,Complementar,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,213.28,0.21328
+150992,0371,Avenida Marechal Craveiro Lopes,Calvanas,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMM; EMEL,Lumiar,214.5,0.2145
+151208,0510,Praça da Figueira,LSML 1 - Praça da Figueira,Complementar,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2025,CML/DMM; EMEL,Santa Maria Maior,190.35,0.19035
+151229,0111,Rua da Igreja ao Bairro da Liberdade,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,199.34,0.19934
+151230,0112,Rua Actor Vasco Santana,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,219.43,0.21943
+151231,0112,Rua Actor Estevão Amarante,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,223.3,0.2233
+151232,0111,Rua Carlos Conde,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,233.14000000000001,0.23314
+151233,0111,Rua Inácio Pardelhas Sanchez,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,468.93,0.46893
+151234,0111,Rua do Cotovelo,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,120.03,0.12003
+151235,0111,Rua Padre Domingos Maurício dos Santos,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,300.16,0.30016
+151236,0111,Rua Particular 3 do Bairro da Liberdade,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,135.5,0.1355
+151237,0111,Rua Padre José Gallea,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,195.36,0.19536
+151238,0111,Rua dos Arcos,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,252.87,0.25287
+151239,0111,Rua dos Arcos,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,239.16,0.23916
+151240,0111,Rua João da Mota e Silva,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,86.46000000000001,0.08646
+151242,0110,Rua Soldados da Índia,Bairros 30+Bici - Bairro do Restelo,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Belém,499.66,0.49966
+151243,0110,Rua Tristão da Cunha,Bairros 30+Bici - Bairro do Restelo,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Belém,676.94,0.67694
+151257,0487,Rua Coelho da Rocha,Bairros 30+Bici - Bairro de Campo de Ourique,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campo de Ourique,421.13,0.42113
+151274,0111,Rua Miguel Ângelo de Blasco,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,269.59000000000003,0.26959
+151275,0111,Rua Padre Domingos Maurício dos Santos,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,297.39,0.29739
+151276,0111,Rua Carlos Conde,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,236.31,0.23631
+151277,0111,Rua Miguel Ângelo de Blasco,Bairros 30+Bici - Bairro da Serafina/Liberdade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Campolide,274.66,0.27466
+151292,0112,Rua Doutor José Alberto de Faria,Bairros 30+Bici - Bairro de Santa Cruz de Benfica,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Benfica,377.23,0.37723
+151293,0036,Rua Maria Amália Vaz de Carvalho,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,448.15000000000003,0.44815
+151294,0036,Rua Marquesa de Alorna,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,8.73,0.00873
+151295,0036,Rua Carlos Malheiro Dias,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,9.97,0.00997
+151296,0081,Rua Marquesa de Alorna,Rua Marquesa de Alorna,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,211.70000000000002,0.2117
+151361,0079,Rua José Duro,Rua José Duro,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,140.70000000000002,0.1407
+151362,0036,Rua António Ramalho,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,99.43,0.09943
+151363,0036,Rua Silva e Albuquerque,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,382.39,0.38239
+151364,0036,Rua António Patrício,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,260.5,0.2605
+151365,0036,Rua Maria Amália Vaz de Carvalho,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,448.13,0.44813
+151366,0079,Rua José Duro,Rua José Duro,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,214.59,0.21459
+151367,0036,Rua Silva e Albuquerque,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,265.66,0.26566
+151368,0081,Rua Marquesa de Alorna,Rua Marquesa de Alorna,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2020,CML/DMM; EMEL,Alvalade,149.67000000000002,0.14967
+151369,0036,Rua Carlos Malheiro Dias,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,251.92000000000002,0.25192
+151370,0036,Rua Carlos Malheiro Dias,Bairros 30+Bici - Bairro de Alvalade,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Alvalade,122.75,0.12275
+151371,0397,Rua de Ovar,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,95.87,0.09587
+151372,0397,Rua Engº Cunha Leal,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,56.24,0.05624
+151373,0397,Rua Engº Cunha Leal,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,149.86,0.14986
+151374,0397,Rua Engº Cunha Leal,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,323.18,0.32318
+151375,0397,Praça Dr. Fernando Amado,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,31.96,0.03196
+151376,0397,Praça Dr. Fernando Amado,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,25.55,0.02555
+151681,0397,Rua Engº Cunha Leal,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,325.07,0.32507
+151682,0397,Praça Eduardo Mondlane,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,237.32,0.23732
+151683,0397,Rua Engº Cunha Leal,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,142.66,0.14266
+151684,0397,Avenida João Paulo II,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,405.73,0.40573
+151685,0397,Avenida João Paulo II,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,390.92,0.39092
+151686,0397,Praça Dr. Fernando Amado,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,187.81,0.18781
+151687,0397,Rua de Ovar,Bairros 30+Bici - Bairro do Condado,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Marvila,113.28,0.11328
+151688,0396,Rua Cardeal Mercier,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,247.44,0.24744
+151689,0396,Rua Cardeal Mercier,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,38.12,0.03812
+151690,0396,Rua Filipe da Mata,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,72.94,0.07294
+151691,0396,Rua da Beneficência,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,66.38,0.06638
+151692,0396,Rua Jorge Afonso,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,73.78,0.07378
+151693,0396,Rua Diogo de Macedo,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,95.62,0.09562
+151694,0396,Praça Nuno Gonçalves,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,89.59,0.08959
+151695,0396,Rua Soeiro Pereira Gomes,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,49.45,0.04945
+151696,0396,Rua Portugal Durão,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,10.57,0.01057
+152001,0396,Rua Carlos Reis,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,19.150000000000002,0.01915
+152002,0396,Rua Marciano Henriques da Silva,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,173.81,0.17381
+152003,0396,Rua Falcão Trigoso,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,137.84,0.13784
+152004,0396,Praça Nuno Gonçalves,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,72.29,0.07229
+152005,0396,Rua da Beneficência,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,41.69,0.04169
+152006,0396,Rua da Beneficência,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,37.67,0.03767
+152007,0396,Rua Carlos Reis,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,7.8500000000000005,0.00785
+152008,0396,Rua da Beneficência,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,508.11,0.50811
+152009,0396,Rua Francisco Tomás da Costa,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,245.31,0.24531
+152010,0396,Rua Jorge Afonso,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,98.81,0.09881
+152011,0396,Rua Soeiro Pereira Gomes,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,442.8,0.4428
+152012,0396,Rua Soeiro Pereira Gomes,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,425.68,0.42568
+152013,0396,Rua Augusto Abelaira,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,116.26,0.11626
+152014,0396,Rua Filipe da Mata,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,75.18,0.07518
+152015,0396,Rua Jorge Afonso,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,165.07,0.16507
+152016,0396,Rua Cristóvão de Figueiredo,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,157.97,0.15797
+152017,0396,Rua Cardeal Mercier,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,250.54,0.25054
+152018,0396,Rua Alberto de Sousa,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,195.18,0.19518
+152019,0396,Rua Diogo de Macedo,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,99.62,0.09962
+152020,0396,Rua Alberto de Sousa,Bairros 30+Bici - Bairro Santos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Avenidas Novas,200.18,0.20018
+152021,0333,Rua das Musas,Bairros 30+Bici - Parque das Nações Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Parque das Nações,702.09,0.70209
+152022,0333,Rua Pedro e Inês,Bairros 30+Bici - Parque das Nações Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Parque das Nações,199.64000000000001,0.19964
+152023,0333,Rua Pedro e Inês,Bairros 30+Bici - Parque das Nações Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Parque das Nações,193.18,0.19318
+152024,0333,Rua das Musas,Bairros 30+Bici - Parque das Nações Sul,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2025,CML/DMM; EMEL,Parque das Nações,693.86,0.69386
+152025,0648,Largo de São Sebastião da Pedreira,Largo de São Sebastião,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; SRU,Avenidas Novas,31.220000000000002,0.03122
+152026,0648,Rua Doutor António Cândido,Largo de São Sebastião,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; SRU,Avenidas Novas,190.86,0.19086
+152027,0648,Largo de São Sebastião da Pedreira,Largo de São Sebastião,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; SRU,Avenidas Novas,278.79,0.27879
+152028,0648,Largo de São Sebastião da Pedreira,Largo de São Sebastião,Local,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; SRU,Avenidas Novas,31.67,0.03167
+152029,0648,Rua Doutor António Cândido,Largo de São Sebastião,Local,Zona de Coexistência,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; SRU,Avenidas Novas,57.11,0.05711
+152030,0656,Rua Pinheiro Chagas,Planalto - Rua Pinheiro Chagas,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,600.9300000000001,0.60093
+152031,0648,Rua Marquês de Sá da Bandeira,Largo de São Sebastião,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2024,CML/DMU/DEP; SRU,Avenidas Novas,119.85000000000001,0.11985
+152032,0656,Rua Pinheiro Chagas,Planalto - Rua Pinheiro Chagas,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,585.23,0.58523
+152334,0255,Avenida Fontes Pereira de Melo,Eixo Central,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Santo António,265.37,0.26537
+152335,0255,Praça do Duque de Saldanha,Eixo Central,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Avenidas Novas,138.51,0.13851
+152336,0255,Praça do Duque de Saldanha,Eixo Central,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Arroios,198.71,0.19871
+152641,0193,Rua da Prata,Rua da Prata,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Provisória,Executado,2023,CML/DMM,Santa Maria Maior,400.33,0.40033
+152642,0193,Rua da Prata,Rua da Prata,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Provisória,Executado,2023,CML/DMM,Santa Maria Maior,35.62,0.03562
+152643,0193,Rua da Prata,Rua da Prata,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Provisória,Executado,2023,CML/DMM,Santa Maria Maior,36.61,0.03661
+152644,0193,Rua da Prata,Rua da Prata,Complementar,Percurso Ciclopedonal,Via banalizada (coexistência),Provisória,Executado,2023,CML/DMM,Santa Maria Maior,44.01,0.04401
+152645,0255,Avenida Fontes Pereira de Melo,Eixo Central,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Arroios,8.25,0.00825
+152646,0255,Avenida Fontes Pereira de Melo,Eixo Central,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Arroios,12.950000000000001,0.01295
+152647,0255,Avenida Fontes Pereira de Melo,Eixo Central,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Arroios,627.52,0.62752
+152648,0255,Avenida Fontes Pereira de Melo,Eixo Central,Principal,Pista Ciclável Unidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Avenidas Novas,924.9200000000001,0.92492
+152649,0255,Avenida da República,Eixo Central,Principal,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Avenidas Novas,1548.07,1.54807
+152650,0255,Avenida Praia da Vitória,Eixo Central,Local,Pista Ciclável Bidirecional,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMU/DEP,Arroios,26.740000000000002,0.02674
+152651,0228,Rua Prof. Oliveira Marques,Rua Prof. Oliveira Marques,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Alvalade,162.37,0.16237
+152652,0228,Rua Prof. Oliveira Marques,Rua Prof. Oliveira Marques,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Alvalade,162.4,0.1624
+152664,0292,Rua Prof. António Flores,Rua Prof. António Flores,Local,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Alvalade,142.15,0.14215
+152665,0288,Rua Branca Edmée Marques,Rua Branca Edmée Marques,Local,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Alvalade,94.07000000000001,0.09407
+152666,0229,Rua Prof.ª Teresa Ambrósio,Rua Prof.ª Teresa Ambrósio,Local,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2017,CML,Alvalade,33.03,0.03303
+152669,0288,Rua Branca Edmée Marques,Rua Branca Edmée Marques,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Alvalade,263.32,0.26332
+152670,0288,Rua Branca Edmée Marques,Rua Branca Edmée Marques,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Alvalade,166.9,0.1669
+152672,0229,Rua Prof.ª Teresa Ambrósio,Rua Prof.ª Teresa Ambrósio,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Alvalade,31.26,0.03126
+152673,0292,Rua Prof. António Flores,Rua Prof. António Flores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Alvalade,411.19,0.41119
+152674,0292,Rua Prof. António Flores,Rua Prof. António Flores,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Alvalade,260.92,0.26092
+152675,0655,Avenida Sacadura Cabral,Planalto - Avenida Sacadura Cabral,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Areeiro,392.37,0.39237
+152677,0655,Avenida Sacadura Cabral,Planalto - Avenida Sacadura Cabral,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Areeiro,390.37,0.39037
+152961,0221,Rua Dr. Júlio Dantas,Rua Dr. Júlio Dantas,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Avenidas Novas,3.35,0.00335
+152962,0221,Rua Dr. Júlio Dantas,Rua Dr. Júlio Dantas,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Avenidas Novas,91.2,0.0912
+152964,0667,Rua Fialho de Almeida,Rua Fialho de Almeida,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Avenidas Novas,280.38,0.28038
+152965,0221,Rua Dr. Júlio Dantas,Rua Dr. Júlio Dantas,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,28.32,0.02832
+152966,0221,Rua Dr. Júlio Dantas,Rua Dr. Júlio Dantas,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,32.26,0.03226
+152967,0654,Avenida Ressano Garcia,Planalto - Avenida Ressano Garcia,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2015,CML/DMMT,Avenidas Novas,301.54,0.30154
+152968,0221,Rua Dr. Júlio Dantas,Rua Dr. Júlio Dantas,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,Sem dados,CML,Campolide,128.31,0.12831
+152972,0466,Avenida Praia da Vitória,Avenida Praia da Vitória,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Arroios,231.4,0.2314
+152973,0466,Avenida Praia da Vitória,Avenida Praia da Vitória,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML,Arroios,208.53,0.20853
+152976,0421,Avenida Barbosa du Bocage,Planalto - Avenida Barbosa du Bocage - Nascente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,267.33,0.26733
+153281,0421,Avenida Barbosa du Bocage,Planalto - Avenida Barbosa du Bocage - Nascente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,269.1,0.2691
+153284,0653,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Poente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,139.99,0.13999
+153288,0653,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Poente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,145.15,0.14515
+153291,0653,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Poente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,209.57,0.20957
+153294,0663,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - atravessamentos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,45.68,0.04568
+153295,0652,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Nascente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,162.77,0.16277
+153296,0663,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - atravessamentos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,45.7,0.0457
+153310,0663,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - atravessamentos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,24.560000000000002,0.02456
+153313,0653,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Poente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,119.0,0.119
+153314,0652,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Nascente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,110.05,0.11005
+153315,0653,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Poente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,209.59,0.20959
+153316,0663,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - atravessamentos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,24.61,0.02461
+153317,0663,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - atravessamentos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,16.57,0.01657
+153318,0652,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Nascente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,109.93,0.10993
+153319,0653,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Poente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,124.17,0.12417
+153321,0652,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - Nascente,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,161.96,0.16196
+153324,0663,Avenida Elias Garcia,Planalto - Avenida Elias Garcia - atravessamentos,Local,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,16.63,0.01663
+153325,0240,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Nascente,Complementar,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMMT,Areeiro,33.04,0.03304
+153326,0240,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Nascente,Complementar,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,3.88,0.00388
+153327,0274,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Poente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,126.53,0.12653
+153328,0240,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Nascente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,279.93,0.27993
+153329,0379,Avenida Visconde de Valmor,Avenida Visconde Valmor - atravessamentos,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,25.26,0.02526
+153330,0240,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Nascente,Complementar,Contrassentido,Pista ciclável (separação física),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,183.56,0.18356
+153331,0379,Avenida Visconde de Valmor,Avenida Visconde Valmor - atravessamentos,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,25.13,0.02513
+153332,0274,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Poente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,126.53,0.12653
+153333,0379,Avenida Visconde de Valmor,Avenida Visconde Valmor - atravessamentos,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,25.11,0.02511
+153334,0274,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Poente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,150.93,0.15093
+153335,0240,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Nascente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,105.09,0.10509
+153336,0379,Avenida Visconde de Valmor,Avenida Visconde Valmor - atravessamentos,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2018,CML,Avenidas Novas,25.240000000000002,0.02524
+153337,0274,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Poente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,150.91,0.15091
+153338,0274,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Poente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,116.71000000000001,0.11671
+153339,0274,Avenida Visconde de Valmor,Planalto - Avenida Visconde Valmor - Poente,Complementar,30+Bici,Via banalizada (coexistência),Definitiva,Executado,2017,CML/DMMT,Avenidas Novas,116.63,0.11663

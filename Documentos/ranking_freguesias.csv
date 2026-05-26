@@ -1,0 +1,25 @@
+rank,freguesia,capacidade_total,n_estacionamentos,capacidade_media,km_rede_ciclavel,capacidade_por_km_ciclavel
+1,Alvalade,1904,238,8,16.74,113.74
+2,Avenidas Novas,1874,228,8.4,28.6,65.52
+3,Lumiar,1337,166,8.05,15.43,86.65
+4,Parque das Nações,1144,109,10.59,18.42,62.11
+5,Marvila,1087,122,8.91,18.79,57.85
+6,Olivais,1055,116,9.09,19.3,54.66
+7,Arroios,1016,134,7.64,6.52,155.83
+8,Benfica,836,96,8.71,41.25,20.27
+9,Campolide,801,71,11.44,17.85,44.87
+10,Santo António,797,90,8.86,2.83,281.63
+11,Areeiro,790,93,8.49,8.66,91.22
+12,Belém,783,94,8.33,17.72,44.19
+13,São Domingos de Benfica,759,104,7.3,12.63,60.1
+14,Estrela,715,83,8.61,4.13,173.12
+15,Alcântara,711,72,9.88,20.69,34.36
+16,Campo de Ourique,596,67,8.9,5.36,111.19
+17,Misericórdia,586,64,9.3,1.51,388.08
+18,Ajuda,402,42,9.57,7.17,56.07
+19,Beato,347,39,9.13,5.53,62.75
+20,Santa Clara,344,43,8.19,4.2,81.9
+21,Carnide,342,48,7.28,9.79,34.93
+22,Penha de França,293,38,7.92,1.02,287.25
+23,Santa Maria Maior,265,34,7.79,3.36,78.87
+24,São Vicente,138,18,8.12,0.9,153.33
