@@ -1,0 +1,10 @@
+^C:\USERS\CARLO\ALGORITMOS_E_D\PROJECTO_AED\BUILD\CMAKEFILES\608739DAA7B72AF79AB5BC2A11AD198D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/carlo/Algoritmos_E_D/Projecto_AED -BC:/Users/carlo/Algoritmos_E_D/Projecto_AED/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/carlo/Algoritmos_E_D/Projecto_AED/build/MobilidadeLisboa.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

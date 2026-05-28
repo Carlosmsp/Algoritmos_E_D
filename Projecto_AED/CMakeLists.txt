@@ -5,7 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Flags de compilação recomendadas
-add_compile_options(-Wall -Wextra -O2)
 
 # Executável principal
 add_executable(mobilidade src/main.cpp)

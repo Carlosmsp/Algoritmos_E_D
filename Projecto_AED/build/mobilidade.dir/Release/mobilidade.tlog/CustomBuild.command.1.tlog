@@ -1,0 +1,10 @@
+^C:\USERS\CARLO\ALGORITMOS_E_D\PROJECTO_AED\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/carlo/Algoritmos_E_D/Projecto_AED -BC:/Users/carlo/Algoritmos_E_D/Projecto_AED/build --check-stamp-file C:/Users/carlo/Algoritmos_E_D/Projecto_AED/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
