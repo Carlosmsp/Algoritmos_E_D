@@ -165,7 +165,3 @@ agregacao_freguesia.geojson
 - Leitura de GeoJSON com `nlohmann/json`.
 - Escrita de CSV e GeoJSON pelo próprio programa C++.
 
-## Observação Sobre Entrega
-
-O briefing também pede vídeo promocional, vídeo técnico e relatório técnico. Esses elementos devem ser preparados à parte, pois não são gerados pelo programa.
-
