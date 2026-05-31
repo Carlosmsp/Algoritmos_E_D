@@ -8,7 +8,7 @@
 
 namespace utils {
 
-// ── String ───────────────────────────────────────────────────────────────────
+// ── Texto ────────────────────────────────────────────────────────────────────
 
 // Remove espaços iniciais e finais (equivalente ao strip() do Python)
 inline std::string trim(const std::string& s) {
@@ -58,42 +58,82 @@ inline double toDouble(const std::string& s) {
 // ── Data ─────────────────────────────────────────────────────────────────────
 
 /*
- * Normaliza vários formatos de data para ISO 8601: YYYY-MM-DD
+ * Normaliza vários formatos de data para formato português: DD/MM/YYYY
  * Formatos reconhecidos:
  *   MM/DD/YYYY HH:MM:SS AM/PM   (formato Excel americano)
- *   YYYY-MM-DD                  (já normalizado)
+ *   YYYY-MM-DD
  *   DD/MM/YYYY                  (formato português)
  */
 inline std::string normalizeDate(const std::string& raw) {
     std::string s = trim(raw);
     if (s.empty()) return "";
 
-    // Já está em YYYY-MM-DD
-    if (s.size() >= 10 && s[4] == '-' && s[7] == '-')
-        return s.substr(0, 10);
+    auto formatPT = [](int day, int month, int year) {
+        std::ostringstream oss;
+        oss << std::setfill('0') << std::setw(2) << day << "/"
+            << std::setfill('0') << std::setw(2) << month << "/"
+            << year;
+        return oss.str();
+    };
 
-    // MM/DD/YYYY ... (Excel americano — primeiro campo ≤ 12 e separador '/')
-    if (s.size() >= 10 && s[2] == '/') {
-        int p1 = toInt(s.substr(0, 2));
-        int p2 = toInt(s.substr(3, 2));
-        int p3 = toInt(s.substr(6, 4));
-        // Heurística: se p1 <= 12 assumimos MM/DD/YYYY
-        if (p1 <= 12 && p3 > 1900) {
-            std::ostringstream oss;
-            oss << p3 << "-"
-                << std::setfill('0') << std::setw(2) << p1 << "-"
-                << std::setfill('0') << std::setw(2) << p2;
-            return oss.str();
-        }
-        // DD/MM/YYYY
-        if (p3 > 1900) {
-            std::ostringstream oss;
-            oss << p3 << "-"
-                << std::setfill('0') << std::setw(2) << p2 << "-"
-                << std::setfill('0') << std::setw(2) << p1;
-            return oss.str();
+    // YYYY-MM-DD ou YYYY-MM-DD HH:MM:SS
+    if (s.size() >= 10 && s[4] == '-' && s[7] == '-') {
+        int year = toInt(s.substr(0, 4));
+        int month = toInt(s.substr(5, 2));
+        int day = toInt(s.substr(8, 2));
+        if (day > 0 && day <= 31 && month > 0 && month <= 12 && year > 1900)
+            return formatPT(day, month, year);
+    }
+
+    // DD/MM/YYYY ... em contexto PT, aceitando dias/meses sem zero inicial.
+    // Se o segundo campo for > 12, cai para MM/DD/YYYY porque DD/MM seria inválido.
+    size_t slash1 = s.find('/');
+    size_t slash2 = (slash1 == std::string::npos) ? std::string::npos
+                                                   : s.find('/', slash1 + 1);
+    if (slash1 != std::string::npos && slash2 != std::string::npos) {
+        int p1 = toInt(s.substr(0, slash1));
+        int p2 = toInt(s.substr(slash1 + 1, slash2 - slash1 - 1));
+        int p3 = toInt(s.substr(slash2 + 1, 4));
+
+        if (p1 > 0 && p2 > 0 && p3 > 1900) {
+            int day = p1;
+            int month = p2;
+
+            if (p2 > 12) {
+                month = p1;
+                day = p2;
+            }
+
+            if (day <= 31 && month <= 12)
+                return formatPT(day, month, p3);
         }
     }
+
+    // Formato GeoJSON/RFC usado nos ficheiros originais:
+    // Wed, 09 Jan 2019 00:00:00 GMT
+    if (s.size() >= 16 && s[3] == ',' && s[7] == ' ' && s[11] == ' ') {
+        int day = toInt(s.substr(5, 2));
+        std::string mon = s.substr(8, 3);
+        int year = toInt(s.substr(12, 4));
+
+        int month = 0;
+        if      (mon == "Jan") month = 1;
+        else if (mon == "Feb") month = 2;
+        else if (mon == "Mar") month = 3;
+        else if (mon == "Apr") month = 4;
+        else if (mon == "May") month = 5;
+        else if (mon == "Jun") month = 6;
+        else if (mon == "Jul") month = 7;
+        else if (mon == "Aug") month = 8;
+        else if (mon == "Sep") month = 9;
+        else if (mon == "Oct") month = 10;
+        else if (mon == "Nov") month = 11;
+        else if (mon == "Dec") month = 12;
+
+        if (day > 0 && month > 0 && year > 1900)
+            return formatPT(day, month, year);
+    }
+
     return s;  // devolve como está se não reconhecer
 }
 
@@ -101,7 +141,7 @@ inline std::string normalizeDate(const std::string& raw) {
 
 /*
  * Converte coordenadas Web Mercator (EPSG:3857) para WGS84 (EPSG:4326)
- * Equivalente ao Transformer do pyproj.
+ * Equivalente ao transformador do pyproj.
  *
  * Fórmulas:
  *   lon = x / EARTH_SEMI_MAJOR * (180 / π)
@@ -115,9 +155,9 @@ inline std::pair<double,double> mercatorToWGS84(double x, double y) {
     return {lon, lat};
 }
 
-// ── CSV escaping ─────────────────────────────────────────────────────────────
+// ── Escrita segura em CSV ────────────────────────────────────────────────────
 
-// Envolve valor em aspas se contiver vírgula, aspas ou newline
+// Envolve valor em aspas se contiver vírgula, aspas ou quebra de linha
 inline std::string csvEscape(const std::string& s) {
     if (s.find_first_of(",\"\n\r") == std::string::npos) return s;
     std::string out = "\"";
@@ -129,7 +169,7 @@ inline std::string csvEscape(const std::string& s) {
     return out;
 }
 
-// Formata double com n casas decimais
+// Formata número decimal com n casas decimais
 inline std::string fmtDouble(double v, int precision = 3) {
     std::ostringstream oss;
     oss << std::fixed << std::setprecision(precision) << v;

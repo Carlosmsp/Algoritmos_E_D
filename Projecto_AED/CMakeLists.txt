@@ -9,9 +9,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Executável principal
 add_executable(mobilidade src/main.cpp)
 
-# Include paths:
+# Caminhos de inclusão:
 #   include/  → nlohmann/json.hpp (cópia local)
-#   src/      → headers do projeto
+#   src/      → cabeçalhos do projeto
 target_include_directories(mobilidade PRIVATE
     ${CMAKE_SOURCE_DIR}/include
     ${CMAKE_SOURCE_DIR}/src
@@ -22,7 +22,7 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "GNU" AND CMAKE_CXX_COMPILER_VERSION VERSION_
     target_link_libraries(mobilidade stdc++fs)
 endif()
 
-# ── Instruções de build ──────────────────────────────────────────────────────
+# ── Instruções de compilação ─────────────────────────────────────────────────
 # mkdir build && cd build
 # cmake ..
 # cmake --build .

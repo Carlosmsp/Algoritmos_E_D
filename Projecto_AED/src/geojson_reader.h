@@ -11,7 +11,7 @@ namespace geojson_reader {
 
 using json = nlohmann::json;
 
-// ── Helpers para ler campos com segurança (null-safe) ────────────────────────
+// ── Funções auxiliares para ler campos com segurança ─────────────────────────
 
 inline std::string getString(const json& props, const std::string& key) {
     if (!props.contains(key) || props[key].is_null()) return "";

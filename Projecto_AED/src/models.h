@@ -19,7 +19,7 @@ struct Estacionamento {
     bool        coberto         = false;
     std::string dominialidade;
     std::string estado;
-    std::string data_instalacao;       // normalizado para YYYY-MM-DD
+    std::string data_instalacao;       // normalizado para DD/MM/YYYY
     double      lon             = 0.0;
     double      lat             = 0.0;
 };
@@ -42,6 +42,8 @@ struct Mobilidade {
     std::string dominialidade;
     std::string estado;
     std::string data_instalacao;
+    double      x               = 0.0;   // coordenada Web Mercator original (EPSG:3857)
+    double      y               = 0.0;   // coordenada Web Mercator original (EPSG:3857)
     double      lon             = 0.0;   // convertido de x (EPSG:3857)
     double      lat             = 0.0;   // convertido de y (EPSG:3857)
 };
@@ -77,11 +79,20 @@ struct FreguesiaStat {
     int         capacidade_total        = 0;
     int         num_suportes_total      = 0;
     double      capacidade_media        = 0.0;
+    int         n_mobilidade            = 0;
+    int         capacidade_mobilidade   = 0;
+    int         num_suportes_mobilidade = 0;
+    double      capacidade_media_mob    = 0.0;
     double      km_rede_ciclavel        = 0.0;
     int         n_segmentos_ciclavel    = 0;
     double      estac_por_km_ciclavel   = 0.0;  // 0 se sem rede
     double      cap_por_km_ciclavel     = 0.0;  // 0 se sem rede
+    double      lon_media               = 0.0;
+    double      lat_media               = 0.0;
 
-    // campo auxiliar — não escrito em CSV
+    // campos auxiliares — não escritos diretamente em CSV
     std::vector<int> capacidades;
+    double      lon_soma                = 0.0;
+    double      lat_soma                = 0.0;
+    int         n_coords                = 0;
 };

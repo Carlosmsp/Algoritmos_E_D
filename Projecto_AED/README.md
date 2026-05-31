@@ -1,37 +1,48 @@
-# Mobilidade Urbana Lisboa — Pipeline de Dados
+# Mobilidade Urbana Lisboa
 
-## Ficheiros de Entrada
-| Ficheiro | Tipo | Registos |
-|---|---|---|
-| Estacionamento GeoJSON | Pontos WGS84 | 2209 |
-| Mobilidade XLSX | Tabela | 2214 |
-| Ciclovias GeoJSON | LineString WGS84 | 1025 |
+Projeto em C++17 para o CBL de Algoritmos e Estruturas de Dados.
 
-## Campos Removidos — Estacionamento
-| Campo | Motivo |
-|---|---|
-| COD_SIG | Redundante com COD_SIG_ESTACIONAMENTO |
-| MORADA_DETALHE | 201 nulos — informação secundária |
-| BALIZADORES | 820 nulos (37%) — irrelevante para análise de capacidade |
-| OBS | 1 775 nulos (80%) — texto livre sem estrutura |
-| EQUIPAMENTO_SERVIDO | 1 430 nulos (65%) — campo muito incompleto |
-| FONTE_LEVANTAMENTO | Metadado interno sem valor analítico |
-| GlobalID | Redundante com OBJECTID |
+## Entradas
 
-## Campos Removidos — Rede Ciclável
-| Campo | Motivo |
-|---|---|
-| COD_SIG / COD_VIA | Identificadores de sistema internos |
-| EIXO | Maioritariamente nulo |
-| IDTIPO | Código interno sem valor analítico |
-| ZONAMENTO | Redundante face ao campo FREGUESIA |
-| GlobalID | Redundante com OBJECTID |
+- `data/estacionamento_velocipedes.geojson`
+- `data/mobilidade_urbana.csv`
+- `data/rede_ciclavel.geojson` opcional
 
-## Decisões de Normalização
-- Datas → ISO 8601 (YYYY-MM-DD)
-- COBERTO → 0/1
-- MODELO nulo → 'Desconhecido'
-- Coordenadas XLSX (EPSG:3857) → WGS84 via pyproj
-- GeoJSON já em WGS84
-- `estac_por_km_ciclavel` e `capacidade_por_km_ciclavel` calculadas por freguesia
+## Como compilar
 
+```bash
+cmake -S . -B build
+cmake --build build
+```
+
+## Como executar
+
+```bash
+./build/mobilidade ./data ./output
+```
+
+No Windows:
+
+```bash
+.\build\mobilidade.exe .\data .\output
+```
+
+Executar novamente sobrescreve os ficheiros da pasta `output`.
+
+## O que o programa gera
+
+- Ficheiros `cleaned_*.csv` com colunas selecionadas.
+- Ficheiros `normalized_*.csv` com campos padronizados.
+- `estatisticas.csv` com totais, capacidade e histograma.
+- `estatisticas_locais.csv` e `agregacao_freguesia.csv` por freguesia.
+- `ranking_freguesias.csv` ordenado por capacidade total.
+- Análises auxiliares: modelos, coberto, histograma e top 10.
+- GeoJSON normalizados e `agregacao_freguesia.geojson`.
+
+## Decisões de limpeza
+
+- Foram removidos campos muito incompletos ou metadados internos, como `OBS`, `GlobalID`, `FONTE_LEVANTAMENTO`, `BALIZADORES` e campos redundantes.
+- Datas são normalizadas para formato português `DD/MM/YYYY`, assumindo dia/mês/ano quando há ambiguidade.
+- Coordenadas da mobilidade em EPSG:3857 são convertidas para WGS84.
+- `MODELO` vazio passa para `Desconhecido`.
+- `COBERTO` passa para booleano/0-1 nos ficheiros normalizados.

@@ -1,0 +1,46 @@
+metrica,valor
+total_estacionamentos,2209
+total_mobilidade,2272
+capacidade_soma,18922
+capacidade_media,8.62
+capacidade_mediana,9.0
+capacidade_min,2
+capacidade_max,66
+suportes_soma,5935
+suportes_media,3.37
+total_segmentos_ciclavel,1025
+km_ciclavel_total,288.55
+,
+contagem_por_freguesia,
+Ajuda,42
+Alcântara,72
+Alvalade,238
+Areeiro,93
+Arroios,134
+Avenidas Novas,228
+Beato,39
+Belém,94
+Benfica,96
+Campo de Ourique,67
+Campolide,71
+Carnide,48
+Estrela,83
+Lumiar,166
+Marvila,122
+Misericórdia,64
+Olivais,116
+Parque das Nações,109
+Penha de França,38
+Santa Clara,43
+Santa Maria Maior,34
+Santo António,90
+São Domingos de Benfica,104
+São Vicente,18
+,
+histograma_capacidade,count
+1-2,43
+3-4,368
+5-10,1521
+11-20,227
+21-50,33
+51+,3

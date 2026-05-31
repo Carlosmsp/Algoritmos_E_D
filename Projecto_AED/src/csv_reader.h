@@ -46,8 +46,21 @@ inline std::vector<std::string> parseLine(const std::string& line) {
     return fields;
 }
 
+// Algumas exportações do Excel/openpyxl chegam como um registo CSV inteiro dentro
+// de aspas. Ex.: "14698,2,2,""Rua..."",..." deve virar uma linha CSV normal.
+inline std::string unwrapWholeRecordIfNeeded(const std::string& line) {
+    if (line.size() < 2 || line.front() != '"' || line.back() != '"')
+        return line;
+
+    std::vector<std::string> fields = parseLine(line);
+    if (fields.size() == 1)
+        return fields[0];
+
+    return line;
+}
+
 // ─────────────────────────────────────────────────────────────────────────────
-//  Lê um ficheiro CSV e devolve vector de maps {coluna → valor}
+//  Lê um ficheiro CSV e devolve vetor de mapas {coluna → valor}
 // ─────────────────────────────────────────────────────────────────────────────
 using Row = std::unordered_map<std::string, std::string>;
 
@@ -70,11 +83,14 @@ inline std::vector<Row> readCSV(const std::string& path) {
         (unsigned char)line[2] == 0xBF)
         line = line.substr(3);
 
+    line = unwrapWholeRecordIfNeeded(line);
+
     std::vector<std::string> header = parseLine(line);
 
     // Linhas de dados
     while (std::getline(file, line)) {
         if (utils::trim(line).empty()) continue;
+        line = unwrapWholeRecordIfNeeded(line);
         std::vector<std::string> values = parseLine(line);
         Row row;
         for (size_t i = 0; i < header.size(); ++i)
@@ -85,7 +101,7 @@ inline std::vector<Row> readCSV(const std::string& path) {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-//  Constrói vector<Mobilidade> a partir do CSV normalizado
+//  Constrói vetor<Mobilidade> a partir do CSV normalizado
 //  (XLSX deve ser exportado para CSV antes — ver README)
 // ─────────────────────────────────────────────────────────────────────────────
 inline std::vector<Mobilidade> loadMobilidade(const std::string& path) {
@@ -111,6 +127,8 @@ inline std::vector<Mobilidade> loadMobilidade(const std::string& path) {
 
         double x = utils::toDouble(row["x"]);
         double y = utils::toDouble(row["y"]);
+        m.x = x;
+        m.y = y;
         if (x != 0.0 || y != 0.0) {
             auto [lon, lat]  = utils::mercatorToWGS84(x, y);
             m.lon = lon; m.lat = lat;

@@ -1,0 +1,605 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -9.197550276059971,
+          38.70796593845551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 9.571428571428571,
+        "capacidade_media_mobilidade": 9.571428571428571,
+        "capacidade_mobilidade": 402,
+        "capacidade_por_km_ciclavel": 56.088065383883674,
+        "capacidade_total": 402,
+        "estac_por_km_ciclavel": 5.8599471296594885,
+        "freguesia": "Ajuda",
+        "km_rede_ciclavel": 7.167300160000002,
+        "n_estacionamentos": 42,
+        "n_mobilidade": 42,
+        "n_segmentos_ciclavel": 11,
+        "num_suportes_mobilidade": 85,
+        "num_suportes_total": 85
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.182282154808208,
+          38.705332796085436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 9.875,
+        "capacidade_media_mobilidade": 9.929577464788732,
+        "capacidade_mobilidade": 705,
+        "capacidade_por_km_ciclavel": 34.35648020216478,
+        "capacidade_total": 711,
+        "estac_por_km_ciclavel": 3.4791372356622565,
+        "freguesia": "Alcântara",
+        "km_rede_ciclavel": 20.694785839999998,
+        "n_estacionamentos": 72,
+        "n_mobilidade": 71,
+        "n_segmentos_ciclavel": 37,
+        "num_suportes_mobilidade": 158,
+        "num_suportes_total": 161
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.145581555464826,
+          38.75236310043929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.0,
+        "capacidade_media_mobilidade": 8.0,
+        "capacidade_mobilidade": 1880,
+        "capacidade_por_km_ciclavel": 113.7588465382561,
+        "capacidade_total": 1904,
+        "estac_por_km_ciclavel": 14.219855817282012,
+        "freguesia": "Alvalade",
+        "km_rede_ciclavel": 16.737159860000002,
+        "n_estacionamentos": 238,
+        "n_mobilidade": 235,
+        "n_segmentos_ciclavel": 74,
+        "num_suportes_mobilidade": 761,
+        "num_suportes_total": 766
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.137061399766305,
+          38.74109630782147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.494623655913978,
+        "capacidade_media_mobilidade": 8.588888888888889,
+        "capacidade_mobilidade": 773,
+        "capacidade_por_km_ciclavel": 91.22726136260252,
+        "capacidade_total": 790,
+        "estac_por_km_ciclavel": 10.739411780660802,
+        "freguesia": "Areeiro",
+        "km_rede_ciclavel": 8.65969216,
+        "n_estacionamentos": 93,
+        "n_mobilidade": 90,
+        "n_segmentos_ciclavel": 56,
+        "num_suportes_mobilidade": 356,
+        "num_suportes_total": 363
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.138791015409717,
+          38.729314428910975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 7.639097744360902,
+        "capacidade_media_mobilidade": 7.609022556390977,
+        "capacidade_mobilidade": 1012,
+        "capacidade_por_km_ciclavel": 155.9462772135559,
+        "capacidade_total": 1016,
+        "estac_por_km_ciclavel": 20.567717663992607,
+        "freguesia": "Arroios",
+        "km_rede_ciclavel": 6.515064150000001,
+        "n_estacionamentos": 134,
+        "n_mobilidade": 133,
+        "n_segmentos_ciclavel": 15,
+        "num_suportes_mobilidade": 367,
+        "num_suportes_total": 369
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.15023209411966,
+          38.73702263684593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.403587443946188,
+        "capacidade_media_mobilidade": 8.375,
+        "capacidade_mobilidade": 1675,
+        "capacidade_por_km_ciclavel": 65.5285642548521,
+        "capacidade_total": 1874,
+        "estac_por_km_ciclavel": 7.972525426951056,
+        "freguesia": "Avenidas Novas",
+        "km_rede_ciclavel": 28.598215469999996,
+        "n_estacionamentos": 228,
+        "n_mobilidade": 200,
+        "n_segmentos_ciclavel": 146,
+        "num_suportes_mobilidade": 506,
+        "num_suportes_total": 598
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.114079656258735,
+          38.73292906735966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 9.131578947368421,
+        "capacidade_media_mobilidade": 8.897435897435898,
+        "capacidade_mobilidade": 347,
+        "capacidade_por_km_ciclavel": 62.791545715884276,
+        "capacidade_total": 347,
+        "estac_por_km_ciclavel": 7.057263063168549,
+        "freguesia": "Beato",
+        "km_rede_ciclavel": 5.526221660000002,
+        "n_estacionamentos": 39,
+        "n_mobilidade": 39,
+        "n_segmentos_ciclavel": 29,
+        "num_suportes_mobilidade": 69,
+        "num_suportes_total": 69
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.206409211970456,
+          38.69967895454234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.329787234042554,
+        "capacidade_media_mobilidade": 7.816326530612245,
+        "capacidade_mobilidade": 766,
+        "capacidade_por_km_ciclavel": 44.18792677622378,
+        "capacidade_total": 783,
+        "estac_por_km_ciclavel": 5.304808578499407,
+        "freguesia": "Belém",
+        "km_rede_ciclavel": 17.71977228,
+        "n_estacionamentos": 94,
+        "n_mobilidade": 98,
+        "n_segmentos_ciclavel": 23,
+        "num_suportes_mobilidade": 295,
+        "num_suportes_total": 290
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.19822075383494,
+          38.74675049280033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.708333333333334,
+        "capacidade_media_mobilidade": 8.777777777777779,
+        "capacidade_mobilidade": 790,
+        "capacidade_por_km_ciclavel": 20.268423479564756,
+        "capacidade_total": 836,
+        "estac_por_km_ciclavel": 2.3274744665528906,
+        "freguesia": "Benfica",
+        "km_rede_ciclavel": 41.24642455999998,
+        "n_estacionamentos": 96,
+        "n_mobilidade": 90,
+        "n_segmentos_ciclavel": 83,
+        "num_suportes_mobilidade": 176,
+        "num_suportes_total": 195
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.164223748955187,
+          38.717840335777325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.895522388059701,
+        "capacidade_media_mobilidade": 8.953846153846154,
+        "capacidade_mobilidade": 582,
+        "capacidade_por_km_ciclavel": 111.18945469510577,
+        "capacidade_total": 596,
+        "estac_por_km_ciclavel": 12.499485678812224,
+        "freguesia": "Campo de Ourique",
+        "km_rede_ciclavel": 5.360220550000001,
+        "n_estacionamentos": 67,
+        "n_mobilidade": 65,
+        "n_segmentos_ciclavel": 29,
+        "num_suportes_mobilidade": 124,
+        "num_suportes_total": 132
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.16339937970716,
+          38.73159718848524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 11.442857142857143,
+        "capacidade_media_mobilidade": 11.492537313432836,
+        "capacidade_mobilidade": 770,
+        "capacidade_por_km_ciclavel": 44.86626091028088,
+        "capacidade_total": 801,
+        "estac_por_km_ciclavel": 3.9769095188888173,
+        "freguesia": "Campolide",
+        "km_rede_ciclavel": 17.85305893,
+        "n_estacionamentos": 71,
+        "n_mobilidade": 67,
+        "n_segmentos_ciclavel": 81,
+        "num_suportes_mobilidade": 237,
+        "num_suportes_total": 245
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.18489016709029,
+          38.762544886562885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 7.276595744680851,
+        "capacidade_media_mobilidade": 7.148936170212766,
+        "capacidade_mobilidade": 336,
+        "capacidade_por_km_ciclavel": 34.93972224148816,
+        "capacidade_total": 342,
+        "estac_por_km_ciclavel": 4.903820665472023,
+        "freguesia": "Carnide",
+        "km_rede_ciclavel": 9.788286170000001,
+        "n_estacionamentos": 48,
+        "n_mobilidade": 47,
+        "n_segmentos_ciclavel": 49,
+        "num_suportes_mobilidade": 126,
+        "num_suportes_total": 126
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.163241191562438,
+          38.70731907646765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.614457831325302,
+        "capacidade_media_mobilidade": 8.614457831325302,
+        "capacidade_mobilidade": 715,
+        "capacidade_por_km_ciclavel": 173.15046084140454,
+        "capacidade_total": 715,
+        "estac_por_km_ciclavel": 20.099983566205,
+        "freguesia": "Estrela",
+        "km_rede_ciclavel": 4.12935661,
+        "n_estacionamentos": 83,
+        "n_mobilidade": 83,
+        "n_segmentos_ciclavel": 7,
+        "num_suportes_mobilidade": 132,
+        "num_suportes_total": 132
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.162936239749964,
+          38.76693141532548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.05421686746988,
+        "capacidade_media_mobilidade": 8.085365853658537,
+        "capacidade_mobilidade": 1326,
+        "capacidade_por_km_ciclavel": 86.65675867725965,
+        "capacidade_total": 1337,
+        "estac_por_km_ciclavel": 10.759178713855722,
+        "freguesia": "Lumiar",
+        "km_rede_ciclavel": 15.428686930000001,
+        "n_estacionamentos": 166,
+        "n_mobilidade": 164,
+        "n_segmentos_ciclavel": 62,
+        "num_suportes_mobilidade": 544,
+        "num_suportes_total": 548
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.110839910589785,
+          38.74948263980718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.90983606557377,
+        "capacidade_media_mobilidade": 8.90983606557377,
+        "capacidade_mobilidade": 1087,
+        "capacidade_por_km_ciclavel": 57.85962294269803,
+        "capacidade_total": 1087,
+        "estac_por_km_ciclavel": 6.49390432291551,
+        "freguesia": "Marvila",
+        "km_rede_ciclavel": 18.786849010000005,
+        "n_estacionamentos": 122,
+        "n_mobilidade": 122,
+        "n_segmentos_ciclavel": 75,
+        "num_suportes_mobilidade": 263,
+        "num_suportes_total": 263
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.147894602187415,
+          38.708868993881566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 9.301587301587302,
+        "capacidade_media_mobilidade": 9.112903225806452,
+        "capacidade_mobilidade": 565,
+        "capacidade_por_km_ciclavel": 386.93314105001224,
+        "capacidade_total": 586,
+        "estac_por_km_ciclavel": 42.25890960273171,
+        "freguesia": "Misericórdia",
+        "km_rede_ciclavel": 1.51447353,
+        "n_estacionamentos": 64,
+        "n_mobilidade": 62,
+        "n_segmentos_ciclavel": 8,
+        "num_suportes_mobilidade": 141,
+        "num_suportes_total": 149
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.114519782285013,
+          38.76678883355105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 9.094827586206897,
+        "capacidade_media_mobilidade": 8.991150442477876,
+        "capacidade_mobilidade": 1016,
+        "capacidade_por_km_ciclavel": 54.66247157464692,
+        "capacidade_total": 1055,
+        "estac_por_km_ciclavel": 6.010281234747908,
+        "freguesia": "Olivais",
+        "km_rede_ciclavel": 19.300261579999997,
+        "n_estacionamentos": 116,
+        "n_mobilidade": 113,
+        "n_segmentos_ciclavel": 56,
+        "num_suportes_mobilidade": 227,
+        "num_suportes_total": 240
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.096377494474023,
+          38.77062453861529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 10.592592592592593,
+        "capacidade_media_mobilidade": 10.757575757575758,
+        "capacidade_mobilidade": 1065,
+        "capacidade_por_km_ciclavel": 62.11658841227185,
+        "capacidade_total": 1144,
+        "estac_por_km_ciclavel": 5.918451168651776,
+        "freguesia": "Parque das Nações",
+        "km_rede_ciclavel": 18.416980539999997,
+        "n_estacionamentos": 109,
+        "n_mobilidade": 99,
+        "n_segmentos_ciclavel": 100,
+        "num_suportes_mobilidade": 318,
+        "num_suportes_total": 356
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.124263751257569,
+          38.728539806823434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 7.918918918918919,
+        "capacidade_media_mobilidade": 7.621621621621622,
+        "capacidade_mobilidade": 282,
+        "capacidade_por_km_ciclavel": 286.77882661614456,
+        "capacidade_total": 293,
+        "estac_por_km_ciclavel": 37.19315840072865,
+        "freguesia": "Penha de França",
+        "km_rede_ciclavel": 1.0216932799999998,
+        "n_estacionamentos": 38,
+        "n_mobilidade": 37,
+        "n_segmentos_ciclavel": 4,
+        "num_suportes_mobilidade": 100,
+        "num_suportes_total": 103
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.154939705153858,
+          38.78345306884905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.19047619047619,
+        "capacidade_media_mobilidade": 8.102564102564102,
+        "capacidade_mobilidade": 316,
+        "capacidade_por_km_ciclavel": 81.91932579556628,
+        "capacidade_total": 344,
+        "estac_por_km_ciclavel": 10.239915724445785,
+        "freguesia": "Santa Clara",
+        "km_rede_ciclavel": 4.199253309999999,
+        "n_estacionamentos": 43,
+        "n_mobilidade": 39,
+        "n_segmentos_ciclavel": 29,
+        "num_suportes_mobilidade": 51,
+        "num_suportes_total": 65
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.135798867993099,
+          38.71264715477906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 7.794117647058823,
+        "capacidade_media_mobilidade": 7.676470588235294,
+        "capacidade_mobilidade": 261,
+        "capacidade_por_km_ciclavel": 78.84017076400175,
+        "capacidade_total": 265,
+        "estac_por_km_ciclavel": 10.115342664060602,
+        "freguesia": "Santa Maria Maior",
+        "km_rede_ciclavel": 3.36123067,
+        "n_estacionamentos": 34,
+        "n_mobilidade": 34,
+        "n_segmentos_ciclavel": 14,
+        "num_suportes_mobilidade": 112,
+        "num_suportes_total": 115
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.149661634444964,
+          38.72209583171672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.855555555555556,
+        "capacidade_media_mobilidade": 8.976744186046512,
+        "capacidade_mobilidade": 772,
+        "capacidade_por_km_ciclavel": 281.519755399812,
+        "capacidade_total": 797,
+        "estac_por_km_ciclavel": 31.790185678774257,
+        "freguesia": "Santo António",
+        "km_rede_ciclavel": 2.8310624200000003,
+        "n_estacionamentos": 90,
+        "n_mobilidade": 86,
+        "n_segmentos_ciclavel": 7,
+        "num_suportes_mobilidade": 185,
+        "num_suportes_total": 195
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.177504667906774,
+          38.74828632825882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 7.298076923076923,
+        "capacidade_media_mobilidade": 7.298076923076923,
+        "capacidade_mobilidade": 759,
+        "capacidade_por_km_ciclavel": 60.10560131273294,
+        "capacidade_total": 759,
+        "estac_por_km_ciclavel": 8.235813618608992,
+        "freguesia": "São Domingos de Benfica",
+        "km_rede_ciclavel": 12.62777484,
+        "n_estacionamentos": 104,
+        "n_mobilidade": 104,
+        "n_segmentos_ciclavel": 27,
+        "num_suportes_mobilidade": 315,
+        "num_suportes_total": 315
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.124732355244651,
+          38.71678743504027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "capacidade_media": 8.117647058823529,
+        "capacidade_media_mobilidade": 7.529411764705882,
+        "capacidade_mobilidade": 128,
+        "capacidade_por_km_ciclavel": 152.79169864543405,
+        "capacidade_total": 138,
+        "estac_por_km_ciclavel": 19.92935199723053,
+        "freguesia": "São Vicente",
+        "km_rede_ciclavel": 0.90319043,
+        "n_estacionamentos": 18,
+        "n_mobilidade": 17,
+        "n_segmentos_ciclavel": 2,
+        "num_suportes_mobilidade": 55,
+        "num_suportes_total": 55
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

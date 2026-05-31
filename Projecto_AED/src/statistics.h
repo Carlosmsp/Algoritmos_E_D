@@ -49,6 +49,7 @@ inline void printDescriptiveStats(const std::vector<Estacionamento>& data,
 // ─────────────────────────────────────────────────────────────────────────────
 inline std::vector<FreguesiaStat>
 aggregateByFreguesia(const std::vector<Estacionamento>& estac,
+                     const std::vector<Mobilidade>& mob,
                      const std::vector<CicloVia>& ciclovias) {
 
     // ── 1. Acumular estacionamentos por freguesia ─────────────────────────────
@@ -62,28 +63,56 @@ aggregateByFreguesia(const std::vector<Estacionamento>& estac,
         s.capacidade_total   += e.capacidade;
         s.num_suportes_total += e.num_suportes;
         if (e.capacidade > 0) s.capacidades.push_back(e.capacidade);
+        if (e.lon != 0.0 || e.lat != 0.0) {
+            s.lon_soma += e.lon;
+            s.lat_soma += e.lat;
+            s.n_coords++;
+        }
     }
 
-    // ── 2. Acumular km da rede ciclável por freguesia ─────────────────────────
+    // ── 2. Acumular mobilidade por freguesia ─────────────────────────────────
+    for (const auto& m : mob) {
+        const std::string& freg = m.freguesia.empty() ? "Desconhecida" : m.freguesia;
+        auto it = agg.find(freg);
+        if (it == agg.end()) continue;
+
+        FreguesiaStat& s = it->second;
+        s.n_mobilidade++;
+        s.capacidade_mobilidade   += m.capacidade;
+        s.num_suportes_mobilidade += m.num_suportes;
+        if (m.lon != 0.0 || m.lat != 0.0) {
+            s.lon_soma += m.lon;
+            s.lat_soma += m.lat;
+            s.n_coords++;
+        }
+    }
+
+    // ── 3. Acumular km da rede ciclável por freguesia ─────────────────────────
     for (const auto& c : ciclovias) {
         const std::string& freg = c.freguesia.empty() ? "Desconhecida" : c.freguesia;
-        // só conta se a freguesia já tem estacionamentos (join natural)
+        // só conta se a freguesia já aparece nos dados principais
         if (agg.find(freg) != agg.end()) {
             agg[freg].km_rede_ciclavel     += c.comp_km;
             agg[freg].n_segmentos_ciclavel += 1;
         }
     }
 
-    // ── 3. Calcular médias e densidades ──────────────────────────────────────
+    // ── 4. Calcular médias, densidades e centroide aproximado ────────────────
     for (auto& [freg, s] : agg) {
         s.capacidade_media = utils::mean(s.capacidades);
+        if (s.n_mobilidade > 0)
+            s.capacidade_media_mob = static_cast<double>(s.capacidade_mobilidade) / s.n_mobilidade;
+        if (s.n_coords > 0) {
+            s.lon_media = s.lon_soma / s.n_coords;
+            s.lat_media = s.lat_soma / s.n_coords;
+        }
         if (s.km_rede_ciclavel > 0.0) {
             s.estac_por_km_ciclavel = s.n_estacionamentos / s.km_rede_ciclavel;
             s.cap_por_km_ciclavel   = s.capacidade_total  / s.km_rede_ciclavel;
         }
     }
 
-    // ── 4. Converter map → vector (mantém ordem alfabética do map) ───────────
+    // ── 5. Converter map → vector (mantém ordem alfabética do map) ───────────
     std::vector<FreguesiaStat> result;
     result.reserve(agg.size());
     for (auto& [_, s] : agg) result.push_back(std::move(s));

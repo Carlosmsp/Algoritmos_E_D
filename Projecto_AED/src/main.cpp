@@ -6,7 +6,7 @@
  *
  * Estrutura do projeto:
  *   src/main.cpp          — ponto de entrada, orquestra as 4 tarefas
- *   src/models.h          — structs de dados (Estacionamento, CicloVia, …)
+ *   src/models.h          — estruturas de dados (Estacionamento, CicloVia, …)
  *   src/utils.h           — funções utilitárias (trim, parse, projeção)
  *   src/csv_reader.h      — leitura de CSVs
  *   src/geojson_reader.h  — leitura de GeoJSON (nlohmann/json)
@@ -34,7 +34,7 @@
 namespace fs = std::filesystem;
 
 // ─────────────────────────────────────────────────────────────────────────────
-//  Imprime os 5 primeiros registos de cada dataset (Tarefa 1)
+//  Imprime os 5 primeiros registos de cada conjunto de dados (Tarefa 1)
 // ─────────────────────────────────────────────────────────────────────────────
 void printSample(const std::vector<Estacionamento>& estac,
                  const std::vector<Mobilidade>&     mob,
@@ -83,28 +83,33 @@ int main(int argc, char* argv[]) {
     std::cout << " TAREFA 1 — Leitura e exploração inicial\n";
     std::cout << "════════════════════════════════════════════\n";
 
-    // Carrega os três datasets para vectores de structs em memória
+    // Carrega os três conjuntos de dados para vetores de estruturas em memória
     std::vector<Estacionamento> estac  = geojson_reader::loadEstacionamento(PATH_ESTAC);
     std::vector<Mobilidade>     mob    = csv_reader::loadMobilidade(PATH_MOB);
     std::vector<CicloVia>       cic    = geojson_reader::loadCiclovias(PATH_CIC);
 
     printSample(estac, mob, cic);
 
-    // Cleaned CSVs — campos selecionados, sem colunas desnecessárias
+    // CSV limpos — campos selecionados, sem colunas desnecessárias
     writer::writeCleaned_Estacionamento(estac, outputDir + "/cleaned_estacionamento.csv");
+    writer::writeCleaned_Mobilidade(mob,       outputDir + "/cleaned_mobilidade.csv");
     writer::writeCleaned_CicloVia(cic,         outputDir + "/cleaned_rede_ciclavel.csv");
 
     // ═════════════════════════════════════════════════════════════════════════
     //  TAREFA 2 — Normalização e estatísticas descritivas
     //  (normalização já feita no momento da leitura em geojson_reader /
-    //   csv_reader — datas → ISO 8601, COBERTO → bool, coords → WGS84)
+    //   csv_reader — datas → DD/MM/YYYY, COBERTO → bool, coords → WGS84)
     // ═════════════════════════════════════════════════════════════════════════
     std::cout << "\n════════════════════════════════════════════\n";
     std::cout << " TAREFA 2 — Normalização e estatísticas\n";
     std::cout << "════════════════════════════════════════════\n";
 
     statistics::printDescriptiveStats(estac, cic);
-    writer::writeEstatisticas(estac, cic, outputDir + "/estatisticas.csv");
+    writer::writeEstatisticas(estac, mob, cic, outputDir + "/estatisticas.csv");
+    writer::writeNormalizedEstacionamento(estac, outputDir + "/normalized_estacionamento.csv");
+    writer::writeNormalizedMobilidade(mob, outputDir + "/normalized_mobilidade.csv");
+    if (!cic.empty())
+        writer::writeNormalizedCicloVia(cic, outputDir + "/normalized_rede_ciclavel.csv");
 
     // ═════════════════════════════════════════════════════════════════════════
     //  TAREFA 3 — Estatísticas e análises auxiliares por local
@@ -114,7 +119,7 @@ int main(int argc, char* argv[]) {
     std::cout << "════════════════════════════════════════════\n";
 
     // Agrega por freguesia (std::map + std::sort internamente)
-    std::vector<FreguesiaStat> stats     = statistics::aggregateByFreguesia(estac, cic);
+    std::vector<FreguesiaStat> stats     = statistics::aggregateByFreguesia(estac, mob, cic);
     std::vector<FreguesiaStat> ranked    = statistics::rankByCapacidade(stats);
 
     writer::writeEstatisticasLocais(stats,  outputDir + "/estatisticas_locais.csv");
@@ -131,6 +136,7 @@ int main(int argc, char* argv[]) {
     writer::writeGeoJSON_Estacionamento(estac, outputDir + "/normalized_estacionamento.geojson");
     if (!cic.empty())
         writer::writeGeoJSON_CicloVia(cic, outputDir + "/normalized_rede_ciclavel.geojson");
+    writer::writeGeoJSON_AgregacaoFreguesia(stats, outputDir + "/agregacao_freguesia.geojson");
 
     // ═════════════════════════════════════════════════════════════════════════
     //  TAREFA 4 — Agregação e ranking por freguesia
